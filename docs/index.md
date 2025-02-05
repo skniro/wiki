@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "Skniro Wiki"
-  text: "Skniro Wiki"
-  tagline: My great project tagline
+  tagline: My Minecraft Mod Wiki
   actions:
     - theme: brand
       text: Markdown Examples

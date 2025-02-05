@@ -27,5 +27,6 @@ export default defineConfig({
         { icon: 'github', link: 'https://github.com/skniro' },
         { icon: 'discord', link: 'https://discord.com/invite/pDaMyHDfBy' }
     ]
-  }
+  },
+  lastUpdated: true
 })
