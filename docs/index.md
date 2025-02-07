@@ -4,21 +4,18 @@ layout: home
 
 hero:
   name: "Skniro Wiki"
-  tagline: My Minecraft Mod Wiki
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  tagline: Skniro's Minecraft Mod Wiki
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Player Guides
+    icon: 📚
+    details: Our player guides have you covered. These guides will help you troubleshooting.
+    link: /players/GrowableOres/01 Introducing the Growable Ores
+    linkText: Read More
+  - title: Developer Guides
+    icon: 🛠️
+    details: Developer guides cover everything from setting up your development environment to advanced topics.
+    link: /develop/01 Set up Gradle
+    linkText: Get Started
 ---
 
