@@ -1,5 +1,4 @@
 # Folders
-/node_modules
 /docs/.vitepress/cache
 /docs/.vitepress/.temp
 /docs/.vitepress/dist
