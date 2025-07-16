@@ -40,17 +40,17 @@ If set this value greater than world max height might cause game crash.
 When disabled, content from not Installed compatible mods will not be displayed.    
 When enabled, all content will be shown regardless of whether the compatible mod is installed.  
 For example: if Player don’t add tech reborn mod that will don’t show any ore canes about tech reborn mod, but open this option ore canes about tech reborn mod will be shown.
-  
+
 #### Enable Bone Meal Grow Ore Canes
 Default is disable.
 When enabled, players can use bone meal to accelerate the growth of ore canes.
 
 #### Customize the blocks and liquids required for ore cane growth.
 In vanilla Ore cane placed only on a grass block, dirt, coarse dirt, rooted dirt, podzol, mycelium, sand, red sand, suspicious sand, moss block, pale moss block or mud that is directly adjacent to water, a waterlogged block, or frosted ice (not merely above or diagonal to water), or on top of another sugar cane block. (From Minecraft Wiki)  
-  
+
 So Growable Ores mod add two tags to help player customized.    
 Players can use the data pack to complete customization.  
-  
+
 Default we add that ore cane can placed on nether rack is directly adjacent to lava, which want help player grow ore cane in Nether.
 ###### growblock.json
 ```json
