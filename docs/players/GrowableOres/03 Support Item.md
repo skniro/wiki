@@ -167,7 +167,7 @@ BetterNether!(Mod Version 2.4.0+)
 | Item               | Support Minecraft Version | First Support Mod Version | Mod Loader            |
 | ------------------ | ------------------------- | ------------------------- | --------------------- |
 | cincinnasite ingot | 1.16+                     | 2.4.0                     | Fabric,Forge,Neoforge |
-| nether ruby        |                           |                           |                       |
+| nether ruby        | 1.16+                     | 2.4.0                     | Fabric,Forge,Neoforge |
 
 Energized Power!(Mod Version 2.4.0+)
 
