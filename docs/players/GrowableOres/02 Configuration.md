@@ -1,4 +1,4 @@
-# Configuration
+# Configuration(1.14+)
 
 ## Location of configuration files
 #### fabric
