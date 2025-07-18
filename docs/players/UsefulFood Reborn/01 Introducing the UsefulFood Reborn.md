@@ -1,7 +1,7 @@
 # UsefulFood Reborn
 Adds more new food in minecraft. This is a newer version rewrite of UsefulFood.
 
-![2023-08-08 171407.png](https://s2.loli.net/2023/08/08/mL7a3PTWtuRVxwd.png)   
+![2023-08-08 171407.png](../../img/usefulfood/mL7a3PTWtuRVxwd.png)   
 #### Adds more new food in minecraft. This is a newer version rewrite of UsefulFood.
 
 #### I remade the code completely, but the textures still use Usefulfood 1.8's textures. So code is under MIT LICENSE. Textures are under Public Domain LICENSE (UsefulFood Uses it).

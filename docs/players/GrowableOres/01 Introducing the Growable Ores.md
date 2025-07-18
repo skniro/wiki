@@ -1,5 +1,5 @@
 # Growable Ores
-![GrowableOres](https://s2.loli.net/2023/07/18/BlKiGRb9VecTmwz.png)
+![GrowableOres](../../img/growableores/BlKiGRb9VecTmwz.png)
 GrowableOres Mod is a modification that contains a good amount of content to help to farm ores.
 
 ## Translation
@@ -53,9 +53,8 @@ Enable Bone meal accelerate ore canes grow on config.
 You can check recipes in REI or JEI mod.
 
 A simple:  
-![cane_converter1.png](https://s2.loli.net/2024/12/15/ohruFV5ZHLilcGJ.png)
-![cane_converter3.png](https://s2.loli.net/2024/10/06/b4GwiXknhaQIVTU.png)
-
+![cane_converter1.png](../../img/growableores/ohruFV5ZHLilcGJ.png)
+<img src="../../img/growableores/b4GwiXknhaQIVTU.png" alt="cane_converter3.png" style="zoom:97.5%;" />
 
 If you want got ore use less cane your can choice [GrowableOres Extension(Curseforge Link)](https://www.curseforge.com/minecraft/mc-mods/growableores-extension)) mod it can help your one cane to one ore.
-![cane_converter2.png](https://s2.loli.net/2024/10/05/5I79Ms8wcG4vHzy.png)
+<img src="../../img/growableores/5I79Ms8wcG4vHzy.png" alt="cane_converter2.png" style="zoom: 33%;" />

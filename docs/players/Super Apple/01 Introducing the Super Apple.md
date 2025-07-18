@@ -1,5 +1,5 @@
 # Super Apple
-![Super Apple](https://s2.loli.net/2023/07/15/7QBKYsXAdEJ69Oa.png)
+![Super Apple](../../img/super_apple/7QBKYsXAdEJ69Oa.png)
 #### This mod is the extend contents of the original edition contents, such as the extra apples, the level of the enchantments, and ruby.
 
 #### Translation
@@ -24,8 +24,8 @@ We upgrade the up line of the enchantment levels. By doing that, you might have 
 #### New Armour and tools(2.2.0+)
 Ruby Armour and tools strenstrength and durability between diamond and Netherite.The enchantment performance better than gold. It's also support smithing template.(Minecraft1.20+ And Super Apple 2.3.0+).
 
-![Smithing Template](https://s2.loli.net/2023/07/19/OLxqBeP6RyEb7vU.png)
+![Smithing Template](../../img/super_apple/OLxqBeP6RyEb7vU.png)
 
 #### New tree(3.0.0+)
 Adding effect apples's fruit tree(No Super Apple Tree), the saplings only need to be composed of oak saplings and any effect apple, and the fruiting leaves will not disappear after the mature fruits has been picked.
-![New tree](https://s2.loli.net/2023/07/15/iZUHWb3ut1hQCS7.png)
+![New tree](../../img/super_apple/iZUHWb3ut1hQCS7.png)

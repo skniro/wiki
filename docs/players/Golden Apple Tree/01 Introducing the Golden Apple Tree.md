@@ -6,9 +6,9 @@
 
 <img src="../../img/golden_apple_tree/wSWadC1FpbNUYln.jpg" title="" alt="recipe1" width="481">
 
-<img src="https://s2.loli.net/2025/02/03/YAPQu9SH3Ltabrn.jpg" title="" alt="recipe2" width="481">
+<img src="../../img/golden_apple_tree/YAPQu9SH3Ltabrn.jpg" title="" alt="recipe2" width="481">
 
-<img src="https://s2.loli.net/2025/07/16/GI2woQnFTCcNLX4.png" title="" alt="appletree.png" width="482">
+<img src="../../img/golden_apple_tree/GI2woQnFTCcNLX4.png" title="" alt="appletree.png" width="482">
 
 ## Growth of the Golden Apple Tree
 

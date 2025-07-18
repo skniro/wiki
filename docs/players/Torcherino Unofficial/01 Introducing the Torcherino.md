@@ -1,6 +1,6 @@
 # Torcherino Unofficial
 
-![屏幕截图 2025-07-16 211157.jpg](https://s2.loli.net/2025/07/16/vRbpasfXAxtNPc9.jpg)
+![屏幕截图 2025-07-16 211157.jpg](../../img/torcherino/vRbpasfXAxtNPc9.jpg)
 
  *Torcherino* is a simple yet powerful Minecraft mod that introduces a special torch which accelerates the random tick speed of nearby blocks. This means crops grow faster, saplings mature quicker and grass spreads rapidly — all without changing your world’s global tick settings!
 
