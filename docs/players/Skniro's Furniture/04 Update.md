@@ -1,4 +1,8 @@
-# Function
+# Update
+
+### Skniro's Furniture 1.3.1  
+
+Fix glass table recipe.
 
 ### Skniro's Furniture 1.3.0  
 
@@ -19,7 +23,7 @@
 - Introduced **glass tables**.  
 - Can **store up to 9 items (3×3 grid)**.  
 - Stored items are **visibly displayed under the glass surface**, adding a decorative and functional touch.
-![ 2025-10-18 175238.jpg](https://s2.loli.net/2025/10/18/su2BZKPFeT8iED6.jpg)
+  ![ 2025-10-18 175238.jpg](https://s2.loli.net/2025/10/18/su2BZKPFeT8iED6.jpg)
 
   
 
