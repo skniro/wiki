@@ -1,31 +1,51 @@
+
+
 # Support Item（Minecraft 1.14+）
 
 ## Vanilla(Minecraft)
 
-| Item            | Support Minecraft Version | First Support Mod Version  | Mod Loader            |
-| --------------- | ------------------------- | -------------------------- | --------------------- |
-| Blaze Rod       | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Coal            | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Copper Ingot    | 1.17+                     | 0.1.0                      | Fabric,Forge,Neoforge |
-| Diamond         | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Emerald         | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Ender Pearl     | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Gold Ingot      | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Iron Ingot      | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Lapis           | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Nether Quartz   | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Redstone        | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
-| Netherite Ingot | 1.16+                     | 1.3.5                      | Fabric,Forge,Neoforge |
-| Clay            | ALL                       | 1.6.0(Fabric) 1.2.0(Forge) | Fabric,Forge,Neoforge |
-| Bone            | ALL                       | 1.7.3(Fabric) 1.3.3(Forge) | Fabric,Forge,Neoforge |
-| Glowstone Dust  | ALL                       | 1.7.3(Fabric) 1.3.3(Forge) | Fabric,Forge,Neoforge |
-| Nether Star     | ALL                       | 1.7.3(Fabric) 1.3.3(Forge) | Fabric,Forge,Neoforge |
-| Slime Ball      | ALL                       | 1.7.3(Fabric) 1.3.3(Forge) | Fabric,Forge,Neoforge |
-| White Wool      | ALL                       | 2.4.0                      | Fabric,Forge,Neoforge |
-| Egg             | ALL                       | 2.4.0                      | Fabric,Forge,Neoforge |
-| Feather         | ALL                       | 2.4.0                      | Fabric,Forge,Neoforge |
-| Gunpowder       | ALL                       | 3.1.0(3.X),2.7.0(2.X)      | Fabric,Forge,Neoforge |
-| Leather         | ALL                       | 3.2.0(3.X),2.8.0(2.X)      | Fabric,Forge,Neoforge |
+| Item                | Support Minecraft Version | First Support Mod Version  | Mod Loader            |
+| ------------------- | ------------------------- | -------------------------- | --------------------- |
+| Blaze Rod           | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Coal                | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Copper Ingot        | 1.17+                     | 0.1.0                      | Fabric,Forge,Neoforge |
+| Diamond             | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Emerald             | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Ender Pearl         | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Gold Ingot          | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Iron Ingot          | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Lapis               | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Nether Quartz       | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Redstone            | ALL                       | 0.1.0                      | Fabric,Forge,Neoforge |
+| Netherite Ingot     | 1.16+                     | 1.3.5                      | Fabric,Forge,Neoforge |
+| Clay                | ALL                       | 1.6.0(Fabric) 1.2.0(Forge) | Fabric,Forge,Neoforge |
+| Bone                | ALL                       | 1.7.3(Fabric) 1.3.3(Forge) | Fabric,Forge,Neoforge |
+| Glowstone Dust      | ALL                       | 1.7.3(Fabric) 1.3.3(Forge) | Fabric,Forge,Neoforge |
+| Nether Star         | ALL                       | 1.7.3(Fabric) 1.3.3(Forge) | Fabric,Forge,Neoforge |
+| Slime Ball          | ALL                       | 1.7.3(Fabric) 1.3.3(Forge) | Fabric,Forge,Neoforge |
+| White Wool          | ALL                       | 2.4.0                      | Fabric,Forge,Neoforge |
+| Egg                 | ALL                       | 2.4.0                      | Fabric,Forge,Neoforge |
+| Feather             | ALL                       | 2.4.0                      | Fabric,Forge,Neoforge |
+| Gunpowder           | ALL                       | 3.1.0(3.X),2.7.0(2.X)      | Fabric,Forge,Neoforge |
+| Leather             | ALL                       | 3.2.0(3.X),2.8.0(2.X)      | Fabric,Forge,Neoforge |
+| Netherite Scrap     | ALL                       | 3.3.0(3.X),2.9.0(2.X)      | Fabric,Forge,Neoforge |
+| Acacia Log          | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Amethyst Shard      | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Bamboo Block        | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Birch Log           | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Cherry Log          | 1.20+                     | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Crimson Stem        | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Dark Oak log        | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Jungle Log          | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Mangrove Log        | 1.19+                     | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Oak Log             | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Pale Oak Log        | 1.21.4+                   | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Spruce Log          | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Warped Stem         | ALL                       | 3.4.0(3.X),2.10.0(2.X)     | Fabric,Forge,Neoforge |
+| Prismarine Shard    | ALL                       | 3.5.0(3.X),2.11.0(2.X)     | Fabric,Forge,Neoforge |
+| Prismarine Crystals | ALL                       | 3.5.0(3.X),2.11.0(2.X)     | Fabric,Forge,Neoforge |
+| Sand                | ALL                       | 3.6.0(3.X)                 | Fabric,Forge,Neoforge |
+| String              | ALL                       | 3.6.0(3.X)                 | Fabric,Forge,Neoforge |
 
 ## Applied Energistcs 2!  
 
@@ -341,3 +361,39 @@
 | Sky Slime Crystal     | 1.16.5/1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.0.0                     | Forge      |
 | Slimesteel Ingot      | 1.16.5/1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.0.0                     | Forge      |
 | Soulsteel Ingot       | 1.16.5/1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.0.0                     | Forge      |
+
+## Electro Dynamics!
+
+| Item             | Support Minecraft Version | First Support Mod Version | Mod Loader |
+| ---------------- | ------------------------- | ------------------------- | ---------- |
+| Uranium Crystal  | 1.21.+                    | 3.5.0                     | Neoforge   |
+| Steel Ingot      | 1.21.+                    | 3.5.0                     | Neoforge   |
+| Prometheum Ingot | 1.21.+                    | 3.5.0                     | Neoforge   |
+| Platinum Ingot   | 1.21.+                    | 3.5.0                     | Neoforge   |
+| Nickel Ingot     | 1.21.+                    | 3.5.0                     | Neoforge   |
+| Energite Ingot   | 1.21.+                    | 3.5.0                     | Neoforge   |
+| Electrum Ingot   | 1.21.+                    | 3.5.0                     | Neoforge   |
+| Duratium Ingot   | 1.21.+                    | 3.5.0                     | Neoforge   |
+| Biosteel Ingot   | 1.21.+                    | 3.5.0                     | Neoforge   |
+| Adamant Ingot    | 1.21.+                    | 3.5.0                     | Neoforge   |
+
+## Electro Dynamics!
+
+| Item                   | Support Minecraft Version           | First Support Mod Version | Mod Loader     |
+| ---------------------- | ----------------------------------- | ------------------------- | -------------- |
+| Aluminum Ingot         | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Bronze Ingot           | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Lithium Ingot          | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Chromium Ingot         | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Lead Ingot             | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Molybdenum Ingot       | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Silver Ingot           | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Steel Ingot            | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Hsla Steel Ingot       | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Stainless Steel Ingot  | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Superconductive Ingot  | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Tin Ingot              | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Titanium Ingot         | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Titanium Carbide Ingot | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Vanadium Ingot         | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+| Vanadium Steel Ingot   | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |

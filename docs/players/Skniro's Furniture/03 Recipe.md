@@ -12,7 +12,19 @@
 
 ### Table
 
+**Plank**
+
 <img src="../../img/furniture/recipes/skniro_furniture_table_oak_table.png" alt="skniro_furniture_table_oak_table" style="zoom:50%;" />
+
+**Wood**
+
+<img src="../../img/furniture/recipes/skniro_furniture_table_oak_wood_table.png" alt="skniro_furniture_table_oak_wood_table" style="zoom:50%;" />
+
+### Glass Table
+
+
+
+<img src="../../img/furniture/recipes/skniro_furniture_glass_table_oak_wood_glass_table.png" alt="skniro_furniture_glass_table_oak_wood_glass_table" style="zoom:50%;" />
 
 ### Window
 
@@ -56,9 +68,15 @@
 
 ### End Table
 
+**Plank**
+
 
 
 <img src="../../img/furniture/recipes/skniro_furniture_end_table_oak_end_table.png" alt="skniro_furniture_end_table_oak_end_table" style="zoom:50%;" />
+
+**Wood**
+
+<img src="../../img/furniture/recipes/skniro_furniture_end_table_oak_wood_end_table.png" alt="skniro_furniture_end_table_oak_wood_end_table" style="zoom:50%;" />
 
 ### **Coffee Chair**
 
@@ -126,6 +144,22 @@
 
 <img src="../../img/furniture/recipes/skniro_furniture_ceiling_lamp_white_ceiling_lamp.png" alt="skniro_furniture_ceiling_lamp_white_ceiling_lamp" style="zoom:50%;" />
 
+### Paper Sliding Door
+
+<img src="../../img/furniture/recipes/skniro_furniture_paper_sliding_door_oak_white_paper_sliding_door.png" alt="skniro_furniture_paper_sliding_door_oak_white_paper_sliding_door" style="zoom:50%;" />
+
+### Grid Sliding Door
+
+<img src="../../img/furniture/recipes/skniro_furniture_grid_sliding_door_oak_white_grid_glass_sliding_door.png" alt="skniro_furniture_grid_sliding_door_oak_white_grid_glass_sliding_door" style="zoom:100%;" />
+
+### Glass Sliding Door
+
+<img src="../../img/furniture/recipes/skniro_furniture_glass_sliding_door_oak_white_glass_sliding_door.png" alt="skniro_furniture_glass_sliding_door_oak_white_glass_sliding_door" style="zoom:50%;" />
+
+
+
+
+
 
 ## **Bedroom furniture**
 
@@ -158,6 +192,22 @@
 **Wood**
 
 ![skniro_furniture_book_desk_oak_wood_book_desk](../../img/furniture/recipes/skniro_furniture_book_desk_oak_wood_book_desk.png)
+
+### Bed
+
+**Plank**
+
+<img src="../../img/furniture/recipes/skniro_furniture_bed_oak_white_plank_bed.png" alt="skniro_furniture_bed_oak_white_plank_bed" style="zoom:50%;" />
+
+**Wood**
+
+<img src="../../img/furniture/recipes/skniro_furniture_bed_oak_white_wood_bed.png" alt="skniro_furniture_bed_oak_white_wood_bed" style="zoom:50%;" />
+
+### Desk Lamp
+
+<img src="../../img/furniture/recipes/skniro_furniture_desk_lamp_white_desk_lamp.png" alt="skniro_furniture_desk_lamp_white_desk_lamp" style="zoom:50%;" />
+
+
 
 
 ## **Kitchen furniture**
@@ -235,3 +285,19 @@
 **Wood**
 
 <img src="../../img/furniture/recipes/skniro_furniture_tv_stand_oak_wood_tv_stand.png" alt="skniro_furniture_tv_stand_oak_wood_tv_stand" style="zoom:50%;" />
+
+### TV
+
+**Plank**
+
+<img src="../../img/furniture/recipes/skniro_furniture_tv_oak_planks_tv.png" alt="skniro_furniture_tv_oak_planks_tv" style="zoom: 50%;" />
+
+
+
+**Wood**
+
+<img src="../../img/furniture/recipes/skniro_furniture_tv_oak_wood_tv.png" alt="skniro_furniture_tv_oak_wood_tv" style="zoom:50%;" />
+
+**Quartz**
+
+<img src="../../img/furniture/recipes/skniro_furniture_tv_light_blue_tv.png" alt="skniro_furniture_tv_light_blue_tv" style="zoom:50%;" />

@@ -45,3 +45,22 @@ The Ceiling Lamp can be turned on and off with a right-click — a simple light 
 Right-click to sit on the Chair, Sofa, Coffee Chair, or Cushion, and press Shift to stand up.
 
 <img src="../../img/furniture/function7.png" alt="function7" style="zoom:25%;" />
+
+###  Glass Tables
+- Introduced **glass tables**.  
+- Can **store up to 9 items (3×3 grid)**.  
+- Stored items are **visibly displayed under the glass surface**, adding a decorative and functional touch.
+<img src="../../img/furniture/function9.png" alt=" 2025-10-18 175238.jpg" style="zoom: 50%;" />
+
+### New Bed  
+
+- Added a brand-new bed design, suitable for both modern and classic interiors.  
+- Multiple color variants for flexible decoration.  
+  <img src="../../img/furniture/function10.png" alt="image1.png" style="zoom:50%;" />
+
+### Television
+
+- Introduced a TV block as a new decorative piece.  
+- Perfect for creating a complete living room setup with sofas, tables, and more.  
+  <img src="../../img/furniture/function11.png" alt="image2.png" style="zoom: 67%;" />
+
