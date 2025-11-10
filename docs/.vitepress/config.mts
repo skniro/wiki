@@ -6,7 +6,17 @@ export default defineConfig({
   title: "Skniro Wiki",
   description: "Skniro Wiki",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+      // https://vitepress.dev/reference/default-theme-config
+      head: [
+          [
+              'script',
+              {
+                  async: '',
+                  src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9004356343429206',
+                  crossorigin: 'anonymous'
+              }
+          ]
+      ],
     nav: [
           { text: 'Home', link: 'https://www.skniro.org' },
           { text: 'Project', link: 'https://www.skniro.org/project.html' },
