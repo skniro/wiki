@@ -7,16 +7,6 @@ export default defineConfig({
   description: "Skniro Wiki",
   themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
-      head: [
-          [
-              'script',
-              {
-                  async: '',
-                  src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9004356343429206',
-                  crossorigin: 'anonymous'
-              }
-          ]
-      ],
     nav: [
           { text: 'Home', link: 'https://www.skniro.org' },
           { text: 'Project', link: 'https://www.skniro.org/project.html' },
@@ -41,5 +31,15 @@ export default defineConfig({
         { icon: 'discord', link: 'https://discord.com/invite/pDaMyHDfBy' }
     ]
   },
-  lastUpdated: true
+    lastUpdated: true,
+    head: [
+        [
+            'script',
+            {
+                async: '',
+                src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9004356343429206',
+                crossorigin: 'anonymous'
+            }
+        ]
+    ],
 })
