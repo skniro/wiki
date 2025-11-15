@@ -61,5 +61,5 @@ You must provide block state, model, texture, lang, loot table, and recipe files
 #### Special thanks forlukegrahamlandry. This page refers to the lukegrahamlandry website.
 <AdUnit />
 <script setup>
-import AdUnit from '../../vue/wikiad.vue';
+import AdUnit from '../../../docs/vue/wikiad.vue';
 </script>

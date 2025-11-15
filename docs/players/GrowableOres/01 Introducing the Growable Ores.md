@@ -61,5 +61,5 @@ If you want got ore use less cane your can choice [GrowableOres Extension(Cursef
 
 <AdUnit />
 <script setup>
-import AdUnit from '../../vue/wikiad.vue';
+import AdUnit from '../../../docs/vue/wikiad.vue';
 </script>

@@ -16,5 +16,5 @@ features:
     icon: 🛠️
     details: Developer guides cover everything from setting up your development environment to advanced topics.
     link: /develop/01 Set up Gradle
-    linkText: Get Started
+    linkText: Get Started        
 ---

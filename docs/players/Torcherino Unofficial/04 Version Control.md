@@ -18,5 +18,5 @@
 
 <AdUnit />
 <script setup>
-import AdUnit from '../../vue/wikiad.vue';
+import AdUnit from '../../../docs/vue/wikiad.vue';
 </script>
