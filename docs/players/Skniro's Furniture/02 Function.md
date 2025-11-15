@@ -66,5 +66,5 @@ Right-click to sit on the Chair, Sofa, Coffee Chair, or Cushion, and press Shift
 
   <AdUnit />
 <script setup>
-import AdUnit from '../../../docs/vue/wikiad.vue';
+import AdUnit from "../../../components/wikiad.vue";
 </script>

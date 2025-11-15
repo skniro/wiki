@@ -76,5 +76,5 @@ Similar to the Ceiling Lamp, the Desk Lamp can be toggled on and off with a righ
 
 <AdUnit />
 <script setup>
-import AdUnit from '../../vue/wikiad.vue';
+import AdUnit from "../../../components/wikiad.vue";
 </script>

@@ -307,5 +307,5 @@
 
 <AdUnit />
 <script setup>
-import AdUnit from '@vue/wikiad.vue';
+import AdUnit from "../../../components/wikiad.vue";
 </script>
