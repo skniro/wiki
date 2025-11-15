@@ -28,5 +28,5 @@ ImmutableMap<ResourceLocation, Tier> tiers = api.getTiers()` will provide all cu
 
 <AdUnit />
 <script setup>
-import AdUnit from '../../../vue/wikiad.vue';
+import AdUnit from "../../../components/wikiad.vue";
 </script>

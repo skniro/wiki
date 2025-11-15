@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { generateSidebar } from 'vitepress-sidebar';
+import { fileURLToPath, URL } from 'node:url'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -50,4 +51,11 @@ export default defineConfig({
         `
         ],
     ],
+    vite: {
+        resolve: {
+            alias: {
+                '@components': fileURLToPath(new URL('../components', import.meta.url))
+            }
+        }
+    }
 })
