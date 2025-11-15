@@ -63,8 +63,3 @@ mc_version=1.21.1
 ```
 
 #### Special thanks for JEI. This page refers to the JEI wiki.
-
-<AdUnit />
-<script setup>
-import AdUnit from "../../../components/wikiad.vue";
-</script>
