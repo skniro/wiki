@@ -66,5 +66,5 @@ mc_version=1.21.1
 
 <AdUnit />
 <script setup>
-import AdUnit from '../../../docs/vue/wikiad.vue';
+import AdUnit from '../../../vue/wikiad.vue';
 </script>
