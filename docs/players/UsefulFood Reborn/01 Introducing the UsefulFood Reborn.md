@@ -22,5 +22,5 @@ Pies, Sandwiches, Soups
 Ice Cream   
 <AdUnit />
 <script setup>
-import AdUnit from '../../../docs/vue/wikiad.vue';
+import AdUnit from "../../../components/wikiad.vue";
 </script>

@@ -31,5 +31,5 @@ Adding effect apples's fruit tree(No Super Apple Tree), the saplings only need t
 ![New tree](../../img/super_apple/iZUHWb3ut1hQCS7.png)
 <AdUnit />
 <script setup>
-import AdUnit from '../../vue/wikiad.vue';
+import AdUnit from "../../../components/wikiad.vue";
 </script>

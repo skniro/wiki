@@ -78,5 +78,5 @@ Default we add that ore cane can placed on nether rack is directly adjacent to l
 
 <AdUnit />
 <script setup>
-import AdUnit from '../../../docs/vue/wikiad.vue';
+import AdUnit from "../../../components/wikiad.vue";
 </script>

@@ -18,5 +18,5 @@ Skniro’s Furniture Mod pays close attention to the details of everyday living 
 #### For the detailed information, please read the minute contents below. THANKS!!!
 <AdUnit />
 <script setup>
-import AdUnit from '../../../docs/vue/wikiad.vue';
+import AdUnit from "../../../components/wikiad.vue";
 </script>

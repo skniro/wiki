@@ -43,5 +43,5 @@
 ![torcherino_double_compressed_lanterino](../../img/torcherino/torcherino_double_compressed_lanterino.png)
 <AdUnit />
 <script setup>
-import AdUnit from '../../../docs/vue/wikiad.vue';
+import AdUnit from "../../../components/wikiad.vue";
 </script>
