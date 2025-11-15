@@ -1,5 +1,9 @@
 # Update
 
+### Skniro's Furniture 1.3.2   
+
+Fixed Desk and Cabinet blocks would lose stored items.
+
 ### Skniro's Furniture 1.3.1  
 
 Fix glass table recipe.
