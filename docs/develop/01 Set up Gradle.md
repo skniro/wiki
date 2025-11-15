@@ -17,7 +17,7 @@ dependencies {
   /* other minecraft dependencies are here */
 
   // compile
-  runtimeOnly("com.skniro:GrowableOres:${mod_version}-${mc_version}-NeoForge")
+  compileOnly("com.skniro:GrowableOres:${mod_version}-${mc_version}-NeoForge")
   //runtime
   runtimeOnly("com.skniro:GrowableOres:${mod_version}-${mc_version}-NeoForge")
 }
@@ -30,7 +30,7 @@ dependencies {
   /* other minecraft dependencies are here */
 
   // compile
-  runtimeOnly("com.skniro:GrowableOres:${mod_version}-${mc_version}-Forge")
+  compileOnly("com.skniro:GrowableOres:${mod_version}-${mc_version}-Forge")
   //runtime
   runtimeOnly("com.skniro:GrowableOres:${mod_version}-${mc_version}-Forge")
 }
@@ -63,3 +63,8 @@ mc_version=1.21.1
 ```
 
 #### Special thanks for JEI. This page refers to the JEI wiki.
+
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

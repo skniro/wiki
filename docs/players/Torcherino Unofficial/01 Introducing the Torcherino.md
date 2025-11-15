@@ -44,3 +44,7 @@ Feel free to add Torcherino to modpacks! Of course, credits are appreciated!
 ##### This Unofficial Maintainers
 
 ##### skniro
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

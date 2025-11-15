@@ -16,3 +16,7 @@
 | 20.0.x             | 1.20/1.20.1                     |
 | 19.0.x             | 1.19.4                          |
 
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

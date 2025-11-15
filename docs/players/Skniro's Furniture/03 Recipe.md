@@ -157,7 +157,7 @@
 <img src="../../img/furniture/recipes/skniro_furniture_glass_sliding_door_oak_white_glass_sliding_door.png" alt="skniro_furniture_glass_sliding_door_oak_white_glass_sliding_door" style="zoom:50%;" />
 
 
-
+<AdUnit />
 
 
 
@@ -208,6 +208,7 @@
 <img src="../../img/furniture/recipes/skniro_furniture_desk_lamp_white_desk_lamp.png" alt="skniro_furniture_desk_lamp_white_desk_lamp" style="zoom:50%;" />
 
 
+<AdUnit />
 
 
 ## **Kitchen furniture**
@@ -271,6 +272,8 @@
 <img src="../../img/furniture/recipes/skniro_furniture_plate_white_plate.png" alt="skniro_furniture_plate_white_plate" style="zoom:50%;" />
 
 
+<AdUnit />
+
 ## **Livingroom furniture**
 ### Sofa
 
@@ -301,3 +304,8 @@
 **Quartz**
 
 <img src="../../img/furniture/recipes/skniro_furniture_tv_light_blue_tv.png" alt="skniro_furniture_tv_light_blue_tv" style="zoom:50%;" />
+
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

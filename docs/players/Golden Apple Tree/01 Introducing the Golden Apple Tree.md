@@ -1,3 +1,4 @@
+
 # Golden Apple Tree
 
 #### This mod add two apple tree, it can help you grow golden apple and enchanted golden apple.
@@ -15,4 +16,8 @@
 <img src="../../img/golden_apple_tree/golden_apple_treeage.jpg" style="zoom: 33%;" />
 
 The growth of the Golden Apple Tree is divided into three stages. During the first two stages, no visible changes occur. In the third stage, the fruit matures, and you can harvest it by right-clicking on the ripe fruit.
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>
 

@@ -64,3 +64,7 @@ Right-click to sit on the Chair, Sofa, Coffee Chair, or Cushion, and press Shift
 - Perfect for creating a complete living room setup with sofas, tables, and more.  
   <img src="../../img/furniture/function11.png" alt="image2.png" style="zoom: 67%;" />
 
+  <AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

@@ -73,3 +73,8 @@ New door have many various, you can choice  you favorite wood and color types.
 Similar to the Ceiling Lamp, the Desk Lamp can be toggled on and off with a right-click. Its compact size makes it an ideal lighting option for desks and other small spaces.
 
 <img src="https://s2.loli.net/2025/08/04/vrZxn1H2zgoNylk.png" alt="2025-08-04_18.06.35.png" style="zoom:15%;" />
+
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

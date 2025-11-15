@@ -58,3 +58,8 @@ A simple:
 
 If you want got ore use less cane your can choice [GrowableOres Extension(Curseforge Link)](https://www.curseforge.com/minecraft/mc-mods/growableores-extension)) mod it can help your one cane to one ore.
 <img src="../../img/growableores/5I79Ms8wcG4vHzy.png" alt="cane_converter2.png" style="zoom: 33%;" />
+
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

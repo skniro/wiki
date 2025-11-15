@@ -25,3 +25,8 @@ ImmutableMap<ResourceLocation, Tier> tiers = api.getTiers()` will provide all cu
 ```
 
 #### Special thanks forlukegrahamlandry. This page refers to the lukegrahamlandry website.
+
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

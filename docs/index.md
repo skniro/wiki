@@ -18,4 +18,3 @@ features:
     link: /develop/01 Set up Gradle
     linkText: Get Started
 ---
-

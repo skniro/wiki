@@ -40,6 +40,14 @@ export default defineConfig({
                 src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9004356343429206',
                 crossorigin: 'anonymous'
             }
-        ]
+        ],
+        [
+            'script', {},
+        `
+            window['addAds'] = function(){
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            }
+        `
+        ],
     ],
 })

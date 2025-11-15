@@ -16,3 +16,7 @@ What makes this mod even more versatile is the variety of material variants avai
 Skniro’s Furniture Mod pays close attention to the details of everyday living spaces, offering both functionality and beauty. It's the perfect choice for builders and decorators looking to bring their homes to life in Minecraft!
 
 #### For the detailed information, please read the minute contents below. THANKS!!!
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

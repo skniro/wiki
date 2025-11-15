@@ -29,3 +29,7 @@ Ruby Armour and tools strenstrength and durability between diamond and Netherite
 #### New tree(3.0.0+)
 Adding effect apples's fruit tree(No Super Apple Tree), the saplings only need to be composed of oak saplings and any effect apple, and the fruiting leaves will not disappear after the mature fruits has been picked.
 ![New tree](../../img/super_apple/iZUHWb3ut1hQCS7.png)
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

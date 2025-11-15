@@ -20,3 +20,7 @@ CAKES!
 Juices and Smoothies  
 Pies, Sandwiches, Soups  
 Ice Cream   
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>

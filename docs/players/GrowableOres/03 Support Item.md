@@ -397,3 +397,8 @@
 | Titanium Carbide Ingot | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
 | Vanadium Ingot         | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
 | Vanadium Steel Ingot   | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
+
+<AdUnit />
+<script setup>
+import AdUnit from '../../vue/wikiad.vue';
+</script>
