@@ -1,3 +1,8 @@
+# UsefulFood Reborn 1.4.1 for 1.21.6-1.21.10  
+Fix cake and jam jar loot table.
+
+
+
 # UsefulFood Reborn – Version 1.4.0  
 
 **Supported Versions:**  
