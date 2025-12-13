@@ -156,6 +156,9 @@
 
 <img src="../../img/furniture/recipes/skniro_furniture_glass_sliding_door_oak_white_glass_sliding_door.png" alt="skniro_furniture_glass_sliding_door_oak_white_glass_sliding_door" style="zoom:50%;" />
 
+### Draw
+
+<img src="../../img/furniture/recipes/skniro_furniture_draw_crimson_happy_ghast_draw.png" alt="skniro_furniture_draw_crimson_happy_ghast_draw" style="zoom:50%;" />
 
 <AdUnit />
 
