@@ -1,11 +1,11 @@
 # Update
 
-## Skniro's Furniture 1.4.0
+### Skniro's Furniture 1.4.0
 
 **Supported Versions:**  
 `1.20.1` · `1.20.4` · `1.21.1` · `1.21.6` · `1.21.7` · `1.21.8` · `1.21.9` · `1.21.10`  · `1.21.11`  
 
-### Added
+#### Added
 
 <img src="https://s2.loli.net/2025/12/13/mEnZHRMucYwGNbk.png" alt="image1.png" style="zoom:50%;" />
 
@@ -45,17 +45,21 @@
 
     <img src="https://s2.loli.net/2025/12/13/yfdD9NXrHpVj4vB.png" alt="image2.png" style="zoom: 25%;" />
 
-### Changed
+#### Changed
 
 - Adjusted Draw GUI display.
 - Adjusted ceiling lamp GUI display.
 - Adjusted coffee chair.
 
-### Fixed
+#### Fixed
 
 - Fixed beds dropping two beds when destroyed.
 - Fixed fridge loot tables.
 - Separated fridge display names; upper and lower sections now display different names.
+
+### Skniro's Furniture 1.3.8  for 1.21.4  
+
+Adjusted ceiling lamp GUI display.
 
 ### Skniro's Furniture 1.3.7  1.21.4/1.21.11
 
@@ -67,7 +71,7 @@ Separated fridge display names,upper and lower sections now show distinct names.
 
 Fix destroy bed drop two beds.
 
-### Skniro's Furniture 1.3.3 1.21.4/1.21.6/1.21.7/1.21.8/1.21.9/1.21.10   
+### Skniro's Furniture 1.3.3 for 1.21.4/1.21.6/1.21.7/1.21.8/1.21.9/1.21.10   
 Fix advancement files.
 
 ### Skniro's Furniture 1.3.2   
