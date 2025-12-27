@@ -11,6 +11,10 @@ The mod features a complete kitchen furniture set, including sinks, counters, ca
 ![furniture](../../img/furniture/lL6e2CgzwUOqQbY.png)  
 ![furniture](../../img/furniture/WEdock51h9wiS4g.png)  
 
+Recent updates introduce **wood variants for tables**, **glass tables with visible 3×3 item storage**, a growing collection of **Draw (painting) variants**, and a **functional sliding door system** that opens horizontally and supports multiple wood and color types. Lighting options like **ceiling lamps and desk lamps** can be toggled on and off for added immersion.
+
+![image1.png](https://s2.loli.net/2025/12/13/mEnZHRMucYwGNbk.png)
+
 What makes this mod even more versatile is the variety of material variants available for the furniture, such as wood and clay, allowing players to match any architectural style—from modern minimalist to rustic or vintage interiors.
 ![Kitchen](../../img/furniture/nD3x7phZzdKgafQ.jpg)   
 Skniro’s Furniture Mod pays close attention to the details of everyday living spaces, offering both functionality and beauty. It's the perfect choice for builders and decorators looking to bring their homes to life in Minecraft!
