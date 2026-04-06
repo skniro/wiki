@@ -1,5 +1,41 @@
 # Update
 
+### Skniro's Furniture 1.5.0
+
+**Supported Versions:**  
+`1.20.1` · `1.20.4` · `1.21.1` · `1.21.6` · `1.21.7` · `1.21.8` · `1.21.9` · `1.21.10`  · `1.21.11`  
+
+#### Added
+
+**Divider Series**
+ Added **16 color variants** of Divider blocks (full dye color set).
+ Designed for interior partitioning and wall decoration.
+ Can be used as decorative back panels or space dividers.
+
+#### Plush Teddy Bear
+
+- **Adds an adorable plush teddy bear to your world.** 
+
+- Place it in bedrooms, living rooms, or children’s spaces to bring a soft and cozy atmosphere to your builds.
+
+  *Independent version: Plush Bear(If you only want the bear.)
+
+  modrinth:[Plush Teddy - Minecraft Mod](https://modrinth.com/mod/plush-teddy)
+
+  Curseforge:[Plush Teddy - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/plush-teddy)
+
+![屏幕截图 2026-02-27 133201.png](https://files.seeusercontent.com/2026/02/27/rF5k/63b8738.png)
+
+#### Changed
+
+- Adjusted Sliding Door GUI display
+
+modrinth:[Skniro's Furniture - Minecraft Mod](https://modrinth.com/mod/skniros-furniture)
+
+Curseforge:[Skniro's Furniture - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/skniros-furniture)
+
+
+
 ### Skniro's Furniture 1.4.0
 
 **Supported Versions:**  

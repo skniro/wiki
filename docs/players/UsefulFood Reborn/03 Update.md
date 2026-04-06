@@ -1,4 +1,49 @@
+# UsefulFood Reborn – Version 1.5.0  
+
+UsefulFood Reborn 1.5.0 **modernization overhaul**  part 2 of the mod.  
+
+**Supported Versions:**  
+ `1.18.2` ·  `1.19.2` · `1.20.1` · `1.20.4` · `1.21.1` · `1.21.4` · `1.21.5` · `1.21.6` · `1.21.7` · `1.21.8` · `1.21.9` · `1.21.10`  
+
+##  Sushi Series Fully Revamped!
+
+This update revamps and expands the Sushi series, introducing new type and new texture sushi.
+ New additions include:
+
+- Baked Sushi
+- Cod Roe Sushi
+- Salmon Sushi
+
+ The sushi lineup is now more complete and better balanced in terms of ingredient logic.
+
+![usfr150.png](https://files.seeusercontent.com/2026/02/23/fqD2/usfr150.png)
+
+## New: Ice Cream Cone Series
+
+A variety of new ice cream cones have been added, expanding dessert options in survival gameplay.
+
+Available flavors:
+
+- Vanilla
+- Chocolate
+- Caramel
+- Apple
+- Melon
+- Sweet Berries
+- Glow Berries
+- Chorus
+- Magic(Rare)
+
+**Some special flavors grant additional effects upon consumption, adding more possibilities to your adventure.**
+
+![ufsr1502.png](https://files.seeusercontent.com/2026/02/23/zz8D/ufsr1502.png)
+
+
+
+
+
 # UsefulFood Reborn 1.4.1 for 1.21.6-1.21.10  
+
 Fix cake and jam jar loot table.
 
 
@@ -6,7 +51,7 @@ Fix cake and jam jar loot table.
 # UsefulFood Reborn – Version 1.4.0  
 
 **Supported Versions:**  
- `1.18..2` ·  `1.19.2` · `1.20.1` · `1.20.4` · `1.21.1` · `1.21.4` · `1.21.5` · `1.21.6` · `1.21.7` · `1.21.8` · `1.21.9` · `1.21.10`  
+ `1.18.2` ·  `1.19.2` · `1.20.1` · `1.20.4` · `1.21.1` · `1.21.4` · `1.21.5` · `1.21.6` · `1.21.7` · `1.21.8` · `1.21.9` · `1.21.10`  
 
 ### Modernization Update – Part I
 
