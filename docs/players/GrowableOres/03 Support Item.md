@@ -46,6 +46,9 @@
 | Prismarine Crystals | ALL                       | 3.5.0(3.X),2.11.0(2.X)     | Fabric,Forge,Neoforge |
 | Sand                | ALL                       | 3.6.0(3.X)                 | Fabric,Forge,Neoforge |
 | String              | ALL                       | 3.6.0(3.X)                 | Fabric,Forge,Neoforge |
+| Honeycomb           | ALL                       | 3.8.0(3.X)                 | Fabric,Forge,Neoforge |
+| Echo Shard          | ALL                       | 3.8.0(3.X)                 | Fabric,Forge,Neoforge |
+| Breeze Rod          | 1.21.7+                   | 3.8.0(3.X)                 | Fabric,Forge,Neoforge |
 
 ## Applied Energistcs 2!  
 
@@ -56,23 +59,23 @@
 
 ## TechReborn!  
 
-| Item           | Support Minecraft Version | First Support Mod Version | Mod Loader |
-| -------------- | ------------------------- | ------------------------- | ---------- |
-| Aluminum Ingot | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Silver Ingot   | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Cinnabar Dust  | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Galena Dust    | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Iridium Ingot  | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| lead Ingot     | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Peridot Gem    | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Sulfur Dust    | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Ruby Gem       | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Sapphire Gem   | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Tungsten Ingot | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| SodaliteDust   | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Zinc Ingot     | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Tin Ingot      | ALL                       | 0.1.0(Fabric)             | Fabric     |
-| Tungsten Ingot | ALL                       | 0.1.0(Fabric)             | Fabric     |
+| Item           | Support Minecraft Version | First Support Mod Version | Mod Loader                                                  |
+| -------------- | ------------------------- | ------------------------- | ----------------------------------------------------------- |
+| Aluminum Ingot | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Silver Ingot   | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Cinnabar Dust  | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Galena Dust    | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Iridium Ingot  | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| lead Ingot     | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Peridot Gem    | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Sulfur Dust    | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Ruby Gem       | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Sapphire Gem   | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Tungsten Ingot | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| SodaliteDust   | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Zinc Ingot     | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Tin Ingot      | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Tungsten Ingot | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
 
 ## BetterEnd!  
 
@@ -92,27 +95,27 @@
 | Crystal Spirited | 1.15.2+                   | 1.3.0（Fabric）1.1.0（Forge） | Fabric,Forge,Neoforge |
 | Ender Core       | 1.15.2+                   | 1.3.0（Fabric）1.1.0（Forge） | Fabric,Forge,Neoforge |
 
-## Modern InDustrialization!
+## Modern Industrialization!
 
-| Item              | Support Minecraft Version | First Support Mod Version | Mod Loader |
-| ----------------- | ------------------------- | ------------------------- | ---------- |
-| Antimony Ingot    | 1.16+                     | 1.4.0                     | Fabric     |
-| Bauxite Dust      | 1.16+                     | 1.4.0                     | Fabric     |
-| Iridium Ingot     | 1.16+                     | 1.4.0                     | Fabric     |
-| Lead Ingot        | 1.16+                     | 1.4.0                     | Fabric     |
-| Lignite Coal      | 1.16+                     | 1.4.0                     | Fabric     |
-| Monazite Dust     | 1.16+                     | 1.4.0                     | Fabric     |
-| Nickel Ingot      | 1.16+                     | 1.4.0                     | Fabric     |
-| Platinum Ingot    | 1.16+                     | 1.4.0                     | Fabric     |
-| Quartz Dust       | 1.16+                     | 1.4.0                     | Fabric     |
-| Salt Dust         | 1.16+                     | 1.4.0                     | Fabric     |
-| Tin Ingot         | 1.16+                     | 1.4.0                     | Fabric     |
-| Titanium Ingot    | 1.16+                     | 1.4.0                     | Fabric     |
-| Tungsten Ingot    | 1.16+                     | 1.4.0                     | Fabric     |
-| Uranium 235 Ingot | 1.16+                     | 1.4.0                     | Fabric     |
-| Uranium 238 Ingot | 1.16+                     | 1.4.0                     | Fabric     |
+| Item              | Support Minecraft Version | First Support Mod Version | Mod Loader                         |
+| ----------------- | ------------------------- | ------------------------- | ---------------------------------- |
+| Antimony Ingot    | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Bauxite Dust      | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Iridium Ingot     | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Lead Ingot        | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Lignite Coal      | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Monazite Dust     | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Nickel Ingot      | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Platinum Ingot    | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Quartz Dust       | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Salt Dust         | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Tin Ingot         | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Titanium Ingot    | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Tungsten Ingot    | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Uranium 235 Ingot | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
+| Uranium 238 Ingot | 1.16+                     | 1.4.0                     | Fabric,Neoforge(Sinytra Connector) |
 
-## InDustrial Revolution!
+## Industrial Revolution!
 
 | Item           | Support Minecraft Version | First Support Mod Version | Mod Loader |
 | -------------- | ------------------------- | ------------------------- | ---------- |
@@ -398,7 +401,31 @@
 | Vanadium Ingot         | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
 | Vanadium Steel Ingot   | 1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+ | 3.5.0                     | Forge,Neoforge |
 
+## Cobblemon!
+
+| Item          | Support Minecraft Version | First Support Mod Version | Mod Loader            |
+| ------------- | ------------------------- | ------------------------- | --------------------- |
+| Dusk Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Dawn Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Fire Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Sun Stone     | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Thunder Stone | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Shiny Stone   | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Ice Stone     | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Moon Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Leaf Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Water Stone   | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+
+## Occultism!
+
+| Item           | Support Minecraft Version | First Support Mod Version | Mod Loader     |
+| -------------- | ------------------------- | ------------------------- | -------------- |
+| Silver Ingot   | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Forge,Neoforge |
+| Iesnium Ingot  | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Forge,Neoforge |
+| Otherworld Log | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Forge,Neoforge |
+
 <AdUnit />
+
 <script setup>
 import AdUnit from "../../../components/wikiad.vue";
 </script>
