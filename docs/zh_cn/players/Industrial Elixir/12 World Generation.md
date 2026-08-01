@@ -24,6 +24,9 @@
 | 粗锡块 | ![raw_tin_block](../../../img/industrial_elixir/blocks/raw_tin_block.png) | | 粗铅块 | ![raw_lead_block](../../../img/industrial_elixir/blocks/raw_lead_block.png) |
 | 粗神圣矿石块 | ![raw_sacred_block](../../../img/industrial_elixir/blocks/raw_sacred_block.png) | | | |
 
+
+<AdUnit />
+
 ## 橡胶树
 
 橡胶树自然生成在**森林**生物群系中。它们是**粘性树脂**的来源，树脂可被提取为**橡胶**。
@@ -62,6 +65,9 @@
 - 床、工作台、音符盒、花盆、灯笼以及货架上的装饰性食物物品。
 
 **注意：** 结构内的箱子和木桶生成时是空的；真正的战利品来自自动售货机的随机交易。
+
+
+<AdUnit />
 
 ## 战利品表
 

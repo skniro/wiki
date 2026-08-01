@@ -33,6 +33,9 @@ Les batteries stockent l'énergie et peuvent être chargées dans les générate
 
 Les batteries affichent une barre de durabilité d'énergie cyan-bleue. Placez-les dans l'**emplacement batterie** d'une machine pour l'alimenter, ou sur un chargeur pour les recharger sans fil.
 
+
+<AdUnit />
+
 ## Boîtes d'énergie
 
 Les boîtes d'énergie stockent de grandes quantités d'énergie et chargent/déchargent les batteries. La **face avant n'accepte que l'énergie** ; les autres faces produisent de l'énergie.
@@ -65,6 +68,9 @@ Les transformateurs LV, MV, HV et EV sont actuellement des **blocs décoratifs**
 | Transformateur MV | Niveau 2 | ![mv_transformer](../../../img/industrial_elixir/machines/mv_transformer_front.png) |
 | Transformateur HV | Niveau 3 | ![hv_transformer](../../../img/industrial_elixir/machines/hv_transformer_front.png) |
 | Transformateur EV | Niveau 4 | ![ev_transformer](../../../img/industrial_elixir/machines/ev_transformer_front.png) |
+
+
+<AdUnit />
 
 ## Modules d'amélioration
 

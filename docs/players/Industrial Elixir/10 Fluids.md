@@ -34,6 +34,9 @@ Industrial Elixir adds three fluids: **UU-Matter**, **Compressed Air**, and **Ho
 - **Storage:** Hot Spring Bucket or Hot Spring Cell (`hot_spring_cell`, 1000 mB).
 - **Power:** The **Fluid Generator** burns hot spring at 1 mB/t to produce **1 E/t** (same as water).
 
+
+<AdUnit />
+
 ## Fluid Cells & Buckets
 
 All fluids can be stored and transported in **buckets** (stack of 1) or **cells** (stack of 16, 1000 mB each).

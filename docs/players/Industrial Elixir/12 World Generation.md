@@ -24,6 +24,9 @@ Raw ores can be compressed into raw metal blocks for compact storage:
 | Raw Tin Block | ![raw_tin_block](../../img/industrial_elixir/blocks/raw_tin_block.png) | | Raw Lead Block | ![raw_lead_block](../../img/industrial_elixir/blocks/raw_lead_block.png) |
 | Raw Sacred Block | ![raw_sacred_block](../../img/industrial_elixir/blocks/raw_sacred_block.png) | | | |
 
+
+<AdUnit />
+
 ## Rubber Tree
 
 Rubber trees generate naturally in **forest** biomes. They are the source of **Sticky Resin**, which is extracted into **Rubber**.
@@ -62,6 +65,9 @@ The mod generates a single structure: **`industrial_elixir_hot_spring_baths`** â
 - Beds, a crafting table, note blocks, flower pots, lanterns, and decorative food items on the vendor shelves.
 
 **Note:** The chests/barrels inside the structure generate empty; the real loot comes from the Vendor Machines' random trades.
+
+
+<AdUnit />
 
 ## Loot Tables
 

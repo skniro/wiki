@@ -14,6 +14,9 @@ Coffee beans are a food (1 nutrition, 0.1 saturation) and also a **seed item** f
 
 The coffee crop is a `CoffeeBlock` that you plant with coffee beans. It matures over time and can be harvested with the beans.
 
+
+<AdUnit />
+
 ## Coffee Drinks
 
 All coffee drinks are **drinks** (drink animation), stack to 1, are always edible, and place a decorative cup block when used. Each grants unique status effects.

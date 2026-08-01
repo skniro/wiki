@@ -149,6 +149,9 @@
 | Polished Rose Quartz  | 1.15.2+                     | 1.6.0(Fabric) 1.2.0(Forge)         | Forge           |
 | Zinc Ingot            | 1.15.2+                     | 1.6.0(Fabric) 1.2.0(Forge)         | Forge           |
 
+
+<AdUnit />
+
 ## IC2 Classic !
 
 | Objet            | Version Minecraft supportée | Première version du mod supportée | Chargeur de mod |
@@ -210,6 +213,9 @@
 | Redstone Alloy Ingot    | 1.18.2+                     | 2.4.0                             | Fabric,Forge,Neoforge      |
 | Steel Ingot             | 1.18.2+                     | 2.4.0                             | Fabric,Forge,Neoforge      |
 | Tin Ingot               | 1.18.2+                     | 2.4.0                             | Fabric,Forge,Neoforge      |
+
+
+<AdUnit />
 
 ## Biomes O' Plenty !
 
@@ -296,6 +302,9 @@
 | Nether Star Essence         | 1.16.5/1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+   | 3.0.0                             | Forge,Neoforge      |
 | Neutronium Essence          | 1.16.5/1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+   | 3.0.0                             | Forge,Neoforge      |
 | Nitro Crystal Essence       | 1.16.5/1.18.2/1.19.2/1.20.1/1.21.1/1.21.7+   | 3.0.0                             | Forge,Neoforge      |
+
+
+<AdUnit />
 
 ## Mystical Agriculture !
 

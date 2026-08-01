@@ -40,6 +40,9 @@
 
 <img src="../../../img/furniture/function6.png" alt="function6" style="zoom:25%;" />
 
+
+<AdUnit />
+
 ### 椅子/沙发/咖啡椅/坐垫
 
 右键点击坐在椅子、沙发、咖啡椅或坐垫上，按 Shift 键起身。

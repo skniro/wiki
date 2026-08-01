@@ -33,6 +33,9 @@
 
 电池会显示一条青蓝色的能量耐久条。将它们放入机器的**电池槽**为其供电，或放入充电板进行无线充电。
 
+
+<AdUnit />
+
 ## 能量箱
 
 能量箱存储大量能量，并可为电池充放电。**正面只接受能量**；其他面输出能量。
@@ -65,6 +68,9 @@ LV、MV、HV 和 EV 变压器目前是**装饰方块**——它们有正常的�
 | 中压变压器 | 2 级 | ![mv_transformer](../../../img/industrial_elixir/machines/mv_transformer_front.png) |
 | 高压变压器 | 3 级 | ![hv_transformer](../../../img/industrial_elixir/machines/hv_transformer_front.png) |
 | 超高压变压器 | 4 级 | ![ev_transformer](../../../img/industrial_elixir/machines/ev_transformer_front.png) |
+
+
+<AdUnit />
 
 ## 升级模块
 

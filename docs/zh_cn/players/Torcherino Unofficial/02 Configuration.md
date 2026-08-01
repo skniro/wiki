@@ -58,6 +58,9 @@
 - 灯笼：`torcherino:NAME_lantern`
 - 南瓜灯：`torcherino:NAME_lanterino`
 
+
+<AdUnit />
+
 #### 特别感谢 lukegrahamlandry。此页面参考了 lukegrahamlandry 的网站。
 <AdUnit />
 <script setup>

@@ -55,6 +55,9 @@ growable_ores:custom_cane_ten_cane
 
 用于使用甘蔗和基础材料合成矿石甘蔗。
 
+
+<AdUnit />
+
 ### 示例
 
 ```json
@@ -103,6 +106,9 @@ growable_ores:custom_cane_ten_cane
 ```
 
 ---
+
+
+<AdUnit />
 
 ## 扩展配方：甘蔗转换器
 

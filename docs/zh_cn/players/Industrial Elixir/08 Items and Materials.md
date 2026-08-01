@@ -67,6 +67,9 @@
 
 穿戴全套时使用能量吸收伤害，每件减少部分伤害。
 
+
+<AdUnit />
+
 ### 电力喷气背包
 
 | 物品 | 备注 | 图片 |
@@ -133,6 +136,9 @@
 | 纯净铁矿 | ![purified_iron](../../../img/industrial_elixir/items/purified_iron.png) | | 纯净铅矿 | ![purified_lead](../../../img/industrial_elixir/items/purified_lead.png) |
 | 纯净银矿 | ![purified_silver](../../../img/industrial_elixir/items/purified_silver.png) | | 纯净锡矿 | ![purified_tin](../../../img/industrial_elixir/items/purified_tin.png) |
 | 纯净神圣石矿 | ![purified_sacred](../../../img/industrial_elixir/items/purified_sacred.png) | | | |
+
+
+<AdUnit />
 
 ## 粉末
 
@@ -203,6 +209,9 @@
 | 铜外壳 | ![copper_casing](../../../img/industrial_elixir/items/copper_casing.png) | | 钢外壳 | ![steel_casing](../../../img/industrial_elixir/items/steel_casing.png) |
 | 金外壳 | ![gold_casing](../../../img/industrial_elixir/items/gold_casing.png) | | 锡外壳 | ![tin_casing](../../../img/industrial_elixir/items/tin_casing.png) |
 | 铁外壳 | ![iron_casing](../../../img/industrial_elixir/items/iron_casing.png) | | | |
+
+
+<AdUnit />
 
 ## 碳、煤与钻石产品
 

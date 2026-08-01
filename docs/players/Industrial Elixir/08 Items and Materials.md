@@ -67,6 +67,9 @@ Each piece stores **10,000,000 E**, Tier 5. Full-featured IC2-style powered armo
 
 Wearing the full set absorbs damage using energy, reducing damage per piece.
 
+
+<AdUnit />
+
 ### Electric Jetpack
 
 | Item | Notes | Photo |
@@ -133,6 +136,9 @@ Wearing the full set absorbs damage using energy, reducing damage per piece.
 | Purified Iron | ![purified_iron](../../img/industrial_elixir/items/purified_iron.png) | | Purified Lead | ![purified_lead](../../img/industrial_elixir/items/purified_lead.png) |
 | Purified Silver | ![purified_silver](../../img/industrial_elixir/items/purified_silver.png) | | Purified Tin | ![purified_tin](../../img/industrial_elixir/items/purified_tin.png) |
 | Purified Sacred | ![purified_sacred](../../img/industrial_elixir/items/purified_sacred.png) | | | |
+
+
+<AdUnit />
 
 ## Dusts
 
@@ -203,6 +209,9 @@ Nine small dusts combine into one full dust (see [Crafting Recipes](./09%20Craft
 | Copper Casing | ![copper_casing](../../img/industrial_elixir/items/copper_casing.png) | | Steel Casing | ![steel_casing](../../img/industrial_elixir/items/steel_casing.png) |
 | Gold Casing | ![gold_casing](../../img/industrial_elixir/items/gold_casing.png) | | Tin Casing | ![tin_casing](../../img/industrial_elixir/items/tin_casing.png) |
 | Iron Casing | ![iron_casing](../../img/industrial_elixir/items/iron_casing.png) | | | |
+
+
+<AdUnit />
 
 ## Carbon, Coal & Diamond Products
 

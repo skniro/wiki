@@ -31,6 +31,9 @@ Le bronze est un matériau de tier début-milieu (niveau de minage du fer).
 - **Caractéristiques du matériau d'armure :** multiplicateur de durabilité 15, enchantabilité 9, sans solidité ni résistance au recul.
 - Réparée avec des lingots de bronze (tag `repairs_bronze_armor`).
 
+
+<AdUnit />
+
 ## Armure Quantique
 
 La **Combinaison Quantique** est l'armure motorisée de plus haut niveau. Chaque pièce stocke **10 000 000 E**, se recharge au **Tier 5 (8192 E/t)** et est incassable. Sa barre de durabilité cyan indique son niveau d'énergie.
@@ -75,6 +78,9 @@ Un plastron motorisé qui permet de voler.
 - **Vol :** Maintenez saut pour voler (25 E/t), double-appui pour le mode vol stationnaire (37 E/t).
 - Éteint le feu gratuitement.
 - Utilise la même physique de vol que le Plastron Quantique (poussée verticale 0,30, avant 0,08, mode vol stationnaire).
+
+
+<AdUnit />
 
 ## Raccourcis Clavier & Contrôles
 

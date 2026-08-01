@@ -36,6 +36,9 @@ This option allows players to customize the maximum height that sugarcane can gr
 the value is max height number, Default is 3.  
 If set this value greater than world max height might cause game crash.  
 
+
+<AdUnit />
+
 #### All Item Mode
 When disabled, content from not Installed compatible mods will not be displayed.    
 When enabled, all content will be shown regardless of whether the compatible mod is installed.  

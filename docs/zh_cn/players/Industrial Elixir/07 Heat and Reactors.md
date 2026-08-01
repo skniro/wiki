@@ -22,6 +22,9 @@
 
 **使用：** 将固体燃料放入输入槽。灰烬作为副产物在输出槽中产生。将其朝向的一面推送热量。
 
+
+<AdUnit />
+
 ## 热高炉
 
 ![blast_furnace](../../../img/industrial_elixir/machines/blast_furnace_front.png)

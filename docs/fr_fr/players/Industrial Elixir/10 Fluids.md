@@ -32,6 +32,9 @@ L'eau de **Source Chaude** est un fluide chaud qui procure un effet de soin.
 - **Stockage :** Seau de Source Chaude ou Cellule de Source Chaude (`hot_spring_cell`, 1000 mB).
 - **Énergie :** Le **Générateur de Fluide** brûle la source chaude à 1 mB/t pour produire **1 E/t** (comme l'eau).
 
+
+<AdUnit />
+
 ## Cellules et Seaux de Fluide
 
 Tous les fluides peuvent être stockés et transportés dans des **seaux** (pile de 1) ou des **cellules** (pile de 16, 1000 mB chacune).

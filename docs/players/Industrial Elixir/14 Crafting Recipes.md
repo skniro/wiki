@@ -172,6 +172,9 @@ IMI
 ```
 - G = Glass, T = Empty Cell, I = Iron Casing, M = Coal Generator
 
+
+<AdUnit />
+
 ### Electric Heater
 ```
 IBI
@@ -337,6 +340,9 @@ E E
 IEI
 ```
 - I = Iron Plate, E = Empty Cell
+
+
+<AdUnit />
 
 ## Upgrade Modules
 
@@ -505,6 +511,9 @@ AMA
 ICI
 ```
 - I = Advanced Circuit, C = Diamond, M = Advanced Machine, A = Glass Fiber Cable
+
+
+<AdUnit />
 
 ### Electric Motor
 ```
@@ -686,6 +695,9 @@ GHG
  G
 ```
 - H = Advanced Heat Vent, G = Gold Plate
+
+
+<AdUnit />
 
 ### Sacred Essence (Brew Reactor)
 - Impure Sacred Stone + Empty Vessel (in the Brew Reactor)

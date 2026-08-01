@@ -58,6 +58,9 @@ You must provide block state, model, texture, lang, loot table, and recipe files
 - lantern: `torcherino:NAME_lantern`
 - jack-o-lantern: `torcherino:NAME_lanterino`
 
+
+<AdUnit />
+
 #### Special thanks forlukegrahamlandry. This page refers to the lukegrahamlandry website.
 <AdUnit />
 <script setup>

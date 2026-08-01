@@ -22,6 +22,9 @@
 
 **Lantern compressé**
 
+<AdUnit />
+
+
 ![torcherino_compressed_lantern](../../../img/torcherino/torcherino_compressed_lantern.png)
 
 **Lanterino compressé**

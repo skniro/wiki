@@ -31,6 +31,9 @@ Bronze is an early-mid tier material (iron harvest level).
 - **Armor material stats:** durability multiplier 15, enchantability 9, no toughness, no knockback resistance.
 - Repaired with bronze ingots (`repairs_bronze_armor` tag).
 
+
+<AdUnit />
+
 ## Quantum Armor
 
 The **Quantum Suit** is the top-tier powered armor. Each piece stores **10,000,000 E**, charges at **Tier 5 (8192 E/t)**, and is unbreakable. Its cyan durability bar shows its energy level.
@@ -75,6 +78,9 @@ A powered chestplate that lets you fly.
 - **Flight:** Hold jump to fly (25 E/t), double-tap for hover mode (37 E/t).
 - Clears fire for free.
 - Uses the same flight physics as the Quantum Chestplate (thrust up 0.30, forward 0.08, hover mode).
+
+
+<AdUnit />
 
 ## Keybinds & Controls
 

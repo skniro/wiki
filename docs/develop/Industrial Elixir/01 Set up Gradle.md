@@ -25,6 +25,9 @@ dependencies {
 }
 ```
 
+
+<AdUnit />
+
 ## Dependencies for NeoGradle (for NeoForge)
 
 ```gradle

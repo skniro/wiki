@@ -22,6 +22,9 @@ Burns solid fuel to produce **10 Heat/tick** (pauses when heat is full). Tier 1 
 
 **Usage:** Put solid fuel in the input slot. Ashes are produced as a byproduct in the output slot. Pushes heat out its facing side.
 
+
+<AdUnit />
+
 ## Blast Furnace
 
 ![blast_furnace](../../img/industrial_elixir/machines/blast_furnace_front.png)

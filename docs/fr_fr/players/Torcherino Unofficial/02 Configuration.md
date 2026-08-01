@@ -58,6 +58,9 @@ Vous devez fournir les fichiers d'état de bloc, de modèle, de texture, de lang
 - lantern : `torcherino:NAME_lantern`
 - jack-o-lantern : `torcherino:NAME_lanterino`
 
+
+<AdUnit />
+
 #### Remerciements particuliers à lukegrahamlandry. Cette page fait référence au site web de lukegrahamlandry.
 <AdUnit />
 <script setup>

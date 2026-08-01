@@ -53,6 +53,9 @@ public class MyBatteryItem extends Item implements TieredEnergyItem {
 }
 ```
 
+
+<AdUnit />
+
 ## 复制价值表
 
 `com.skniro.industrial_elixir.api.item.replicator.ReplicatorValueMap`
@@ -121,6 +124,9 @@ public interface MachineRecipeProvider {
     RecipeType<?> getCurrentRecipeType();
 }
 ```
+
+
+<AdUnit />
 
 ## 数据生成：配方构建器
 

@@ -32,6 +32,9 @@ A two-input fluid-consuming recipe machine that brews powerful potions. Tier 1 m
 
 **Usage:** Place a **glass bottle** plus the required ingredient, and supply **water** (1000 mB per craft). Some recipes use an **Empty Vessel** instead.
 
+
+<AdUnit />
+
 ### Potion Recipes (require glass bottle + water)
 
 | Ingredient | Output Potion |
@@ -55,6 +58,9 @@ A two-input fluid-consuming recipe machine that brews powerful potions. Tier 1 m
 | Input 1 | Input 2 | Output |
 |---------|---------|--------|
 | Impure Sacred Stone | Empty Vessel | Sacred Essence |
+
+
+<AdUnit />
 
 ## Coffee Machine
 

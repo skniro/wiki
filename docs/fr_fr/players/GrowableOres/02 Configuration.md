@@ -36,6 +36,9 @@ Cette option permet aux joueurs de personnaliser la hauteur maximale que la cann
 La valeur est le nombre de hauteur maximale, par défaut 3.  
 Si vous définissez cette valeur plus grande que la hauteur maximale du monde, cela peut provoquer un crash du jeu.  
 
+
+<AdUnit />
+
 #### Mode Tous les objets
 Lorsqu'il est désactivé, le contenu des mods compatibles non installés ne sera pas affiché.  
 Lorsqu'il est activé, tout le contenu sera affiché, que le mod compatible soit installé ou non.  

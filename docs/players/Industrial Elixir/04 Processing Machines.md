@@ -91,6 +91,9 @@ Pulverizes items and ores into dusts. Tier 1 machine.
 
 Compresses materials into plates, dense plates, blocks, and other products. Tier 1 machine.
 
+
+<AdUnit />
+
 ### Recipes
 
 | Input | Output |
@@ -204,6 +207,9 @@ A three-mode machine: **Rolling**, **Cutting**, and **Extruding**. Switch modes 
 
 Extracts materials such as rubber and sulfur. Tier 1 machine.
 
+
+<AdUnit />
+
 ### Recipes
 
 | Input | Output |
@@ -251,6 +257,9 @@ Every log/stripped log/wood/stripped wood of **oak, spruce, birch, jungle, acaci
 ![recycler_block](../../img/industrial_elixir/machines/recycler_block_front.png)
 
 Recycles any item into **Scrap**. Tier 1 machine.
+
+
+<AdUnit />
 
 ### Recipes
 

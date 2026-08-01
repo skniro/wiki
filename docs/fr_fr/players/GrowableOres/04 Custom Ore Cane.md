@@ -55,6 +55,9 @@ Chemin : `recipes/custom/*.json`
 
 Utilisé pour fabriquer une canne à minerai à l'aide de canne à sucre et d'un matériau de base.
 
+
+<AdUnit />
+
 ### Exemple
 
 ```json
@@ -103,6 +106,9 @@ Chemin : `recipes/custom/result/*.json`
 ```
 
 ---
+
+
+<AdUnit />
 
 ## Recette d'extension : Convertisseur de Cannes
 

@@ -36,6 +36,9 @@ dependencies {
 }
 ```
 
+
+<AdUnit />
+
 ## Loom 依赖（用于 Fabric）
 
 ```gradle

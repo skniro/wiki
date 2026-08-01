@@ -32,6 +32,9 @@ Une machine à recettes à deux entrées consommant des fluides qui brasse de pu
 
 **Utilisation :** Placez une **fiole en verre** plus l'ingrédient requis, et fournissez de l'**eau** (1000 mB par fabrication). Certaines recettes utilisent un **Récipient vide** à la place.
 
+
+<AdUnit />
+
 ### Recettes de potions (nécessitent une fiole en verre + de l'eau)
 
 | Ingrédient | Potion produite |
@@ -55,6 +58,9 @@ Une machine à recettes à deux entrées consommant des fluides qui brasse de pu
 | Entrée 1 | Entrée 2 | Sortie |
 |----------|----------|--------|
 | Pierre sacrée impure | Récipient vide | Essence sacrée |
+
+
+<AdUnit />
 
 ## Machine à café
 

@@ -29,6 +29,9 @@ A high-tier energy sink that transforms items into other items by accumulating r
 | Sand | Gravel | 50,000 E |
 | Yellow Wool | Glowstone | 500,000 E |
 
+
+<AdUnit />
+
 ## Pattern Storage
 
 ![pattern_storage](../../img/industrial_elixir/machines/pattern_storage_front.png)
@@ -48,6 +51,9 @@ Scans an item into a **Pattern Storage Crystal** so it can be duplicated by the 
 Force-loads chunks so machines keep running when you are away. Tier 2 machine.
 
 **Usage:** Place the Chunk Loader and open its GUI. Toggle which chunks in the 5×5 grid around it are loaded (the center chunk is always loaded). Cost: **1 E/t per loaded chunk**.
+
+
+<AdUnit />
 
 ## Crop Farm
 

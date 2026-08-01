@@ -33,6 +33,9 @@ Batteries store energy and can be charged in generators, energy boxes, and charg
 
 Batteries show a cyan-blue energy durability bar. Place them in a machine's **battery slot** to power it, or in a charge pad to recharge them wirelessly.
 
+
+<AdUnit />
+
 ## Energy Boxes
 
 Energy boxes store large amounts of energy and charge/discharge batteries. The **front face accepts energy only**; the other faces output energy.
@@ -65,6 +68,9 @@ LV, MV, HV, and EV transformers are currently **decorative blocks** — they hav
 | MV Transformer | Tier 2 | ![mv_transformer](../../img/industrial_elixir/machines/mv_transformer_front.png) |
 | HV Transformer | Tier 3 | ![hv_transformer](../../img/industrial_elixir/machines/hv_transformer_front.png) |
 | EV Transformer | Tier 4 | ![ev_transformer](../../img/industrial_elixir/machines/ev_transformer_front.png) |
+
+
+<AdUnit />
 
 ## Upgrade Modules
 

@@ -25,6 +25,9 @@ Les minerais bruts peuvent être compressés en blocs de métal brut pour un sto
 | Bloc d'étain brut | ![raw_tin_block](../../../img/industrial_elixir/blocks/raw_tin_block.png) | | Bloc de plomb brut | ![raw_lead_block](../../../img/industrial_elixir/blocks/raw_lead_block.png) |
 | Bloc de sacré brut | ![raw_sacred_block](../../../img/industrial_elixir/blocks/raw_sacred_block.png) | | | |
 
+
+<AdUnit />
+
 ## Arbre à caoutchouc
 
 Les arbres à caoutchouc se génèrent naturellement dans les biomes **forestiers**. Ils sont la source de **Résine collante**, qui est extraite en **Caoutchouc**.
@@ -62,6 +65,9 @@ Le mod génère une seule structure : **`industrial_elixir_hot_spring_baths`** �
 - Des lits, une table de craft, des blocs de note, des pots de fleurs, des lanternes et des objets de nourriture décoratifs sur les étagères des distributeurs.
 
 **Note :** Les coffres/tonneaux à l'intérieur de la structure se génèrent vides ; le vrai butin provient des échanges aléatoires des Distributeurs automatiques.
+
+
+<AdUnit />
 
 ## Tables de butin
 

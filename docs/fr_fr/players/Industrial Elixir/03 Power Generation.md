@@ -24,6 +24,9 @@ Brûle des fluides pour produire de l'énergie. Mémoire tampon interne : 10 000
 
 **Utilisation :** Fournissez le fluide via un tuyau à fluides ou en plaçant un seau/cellule dans l'emplacement d'entrée.
 
+
+<AdUnit />
+
 ## Panneaux solaires
 
 Les panneaux solaires produisent de l'énergie passivement pendant la journée (et un peu la nuit pour les niveaux supérieurs). Ils n'ont pas besoin de combustible. Chacun dispose de 4 emplacements de batterie pour décharger vers des batteries.

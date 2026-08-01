@@ -14,6 +14,9 @@ Les grains de café sont une nourriture (1 nutrition, 0,1 saturation) et aussi u
 
 La culture de café est un `CoffeeBlock` que vous plantez avec des grains de café. Elle mûrit avec le temps et peut être récoltée avec les grains.
 
+
+<AdUnit />
+
 ## Boissons au Café
 
 Toutes les boissons au café sont des **boissons** (animation de boisson), se cumulent à 1, sont toujours comestibles et placent un bloc de tasse décoratif à l'utilisation. Chacune confère des effets de statut uniques.

@@ -53,6 +53,9 @@ public class MyBatteryItem extends Item implements TieredEnergyItem {
 }
 ```
 
+
+<AdUnit />
+
 ## Table des Valeurs du Réplicateur
 
 `com.skniro.industrial_elixir.api.item.replicator.ReplicatorValueMap`
@@ -121,6 +124,9 @@ public interface MachineRecipeProvider {
     RecipeType<?> getCurrentRecipeType();
 }
 ```
+
+
+<AdUnit />
 
 ## Génération de Données : Constructeurs de Recettes
 

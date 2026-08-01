@@ -29,6 +29,9 @@ Un puits d'énergie de haut niveau qui transforme des objets en d'autres objets 
 | Sable | Gravier | 50 000 E |
 | Laine jaune | Glowstone | 500 000 E |
 
+
+<AdUnit />
+
 ## Stockage de motifs
 
 ![pattern_storage](../../../img/industrial_elixir/machines/pattern_storage_front.png)
@@ -48,6 +51,9 @@ Scanne un objet dans un **Cristal de stockage de motifs** afin qu'il puisse êtr
 Force le chargement des chunks pour que les machines continuent de fonctionner en votre absence. Machine de Niveau 2.
 
 **Utilisation :** Placez le Chargeur de chunks et ouvrez son interface. Basculez quels chunks de la grille 5×5 autour de lui sont chargés (le chunk central est toujours chargé). Coût : **1 E/t par chunk chargé**.
+
+
+<AdUnit />
 
 ## Ferme de culture
 

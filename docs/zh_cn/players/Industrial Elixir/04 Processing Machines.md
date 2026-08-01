@@ -91,6 +91,9 @@
 
 将材料压缩成板、致密板、方块和其他产品。1 级机器。
 
+
+<AdUnit />
+
 ### 配方
 
 | 输入 | 输出 |
@@ -204,6 +207,9 @@
 
 提取橡胶和硫磺等材料。1 级机器。
 
+
+<AdUnit />
+
 ### 配方
 
 | 输入 | 输出 |
@@ -251,6 +257,9 @@
 ![recycler_block](../../../img/industrial_elixir/machines/recycler_block_front.png)
 
 将任何物品回收成**废料**。1 级机器。
+
+
+<AdUnit />
 
 ### 配方
 

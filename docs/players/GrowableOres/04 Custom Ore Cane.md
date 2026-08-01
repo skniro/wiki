@@ -55,6 +55,9 @@ Path: `recipes/custom/*.json`
 
 Used to craft ore cane using sugar cane and a base material.
 
+
+<AdUnit />
+
 ### Example
 
 ```json
@@ -103,6 +106,9 @@ Used to craft ore cane using sugar cane and a base material.
 ```
 
 ---
+
+
+<AdUnit />
 
 ## Extension Recipe: Cane Converter
 

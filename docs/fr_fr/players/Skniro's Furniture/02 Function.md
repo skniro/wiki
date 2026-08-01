@@ -40,6 +40,9 @@ Le plafonnier peut être allumé et éteint avec un clic droit — une simple so
 
 <img src="../../../img/furniture/function6.png" alt="function6" style="zoom:25%;" />
 
+
+<AdUnit />
+
 ### Chaise/Canapé/Fauteuil/Coussin
 
 Faites un clic droit pour vous asseoir sur la Chaise, le Canapé, le Fauteuil ou le Coussin, et appuyez sur Shift pour vous lever.

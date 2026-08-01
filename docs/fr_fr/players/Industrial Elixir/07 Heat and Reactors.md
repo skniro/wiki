@@ -22,6 +22,9 @@ Brûle du combustible solide pour produire **10 Chaleur/tick** (pause quand la c
 
 **Utilisation :** Mettez un combustible solide dans l'emplacement d'entrée. Des cendres sont produites comme sous-produit dans l'emplacement de sortie. Pousse la chaleur vers sa face avant.
 
+
+<AdUnit />
+
 ## Haut fourneau
 
 ![blast_furnace](../../../img/industrial_elixir/machines/blast_furnace_front.png)

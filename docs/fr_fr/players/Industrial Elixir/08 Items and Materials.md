@@ -67,6 +67,9 @@ Chaque pièce stocke **10 000 000 E**, Niveau 5. Armure alimentée complète de 
 
 Porter l'ensemble complet absorbe les dégâts en utilisant l'énergie, en réduisant les dégâts par pièce.
 
+
+<AdUnit />
+
 ### Jetpack électrique
 
 | Objet | Notes | Photo |
@@ -133,6 +136,9 @@ Porter l'ensemble complet absorbe les dégâts en utilisant l'énergie, en rédu
 | Fer purifié | ![purified_iron](../../../img/industrial_elixir/items/purified_iron.png) | | Plomb purifié | ![purified_lead](../../../img/industrial_elixir/items/purified_lead.png) |
 | Argent purifié | ![purified_silver](../../../img/industrial_elixir/items/purified_silver.png) | | Étain purifié | ![purified_tin](../../../img/industrial_elixir/items/purified_tin.png) |
 | Sacré purifié | ![purified_sacred](../../../img/industrial_elixir/items/purified_sacred.png) | | | |
+
+
+<AdUnit />
 
 ## Poussières
 
@@ -203,6 +209,9 @@ Neuf petites poussières se combinent en une poussière complète (voir [Recette
 | Coque de cuivre | ![copper_casing](../../../img/industrial_elixir/items/copper_casing.png) | | Coque d'acier | ![steel_casing](../../../img/industrial_elixir/items/steel_casing.png) |
 | Coque d'or | ![gold_casing](../../../img/industrial_elixir/items/gold_casing.png) | | Coque d'étain | ![tin_casing](../../../img/industrial_elixir/items/tin_casing.png) |
 | Coque de fer | ![iron_casing](../../../img/industrial_elixir/items/iron_casing.png) | | | |
+
+
+<AdUnit />
 
 ## Produits du carbone, du charbon & du diamant
 

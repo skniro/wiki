@@ -40,6 +40,9 @@ The Ceiling Lamp can be turned on and off with a right-click — a simple light 
 
 <img src="../../img/furniture/function6.png" alt="function6" style="zoom:25%;" />
 
+
+<AdUnit />
+
 ### Chair/Sofa/Coffee Chair/Cushion
 
 Right-click to sit on the Chair, Sofa, Coffee Chair, or Cushion, and press Shift to stand up.

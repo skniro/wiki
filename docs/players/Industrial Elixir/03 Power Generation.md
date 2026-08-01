@@ -24,6 +24,9 @@ Burns fluids to produce energy. Internal buffer: 10,000 E.
 
 **Usage:** Supply the fluid via a fluid pipe or by placing a bucket/cell in the input slot.
 
+
+<AdUnit />
+
 ## Solar Panels
 
 Solar panels produce energy passively during the day (and some at night for higher tiers). They have no fuel requirement. Each has 4 battery slots to discharge into batteries.

@@ -91,6 +91,9 @@ Réduit en poudre les objets et les minerais. Machine de Niveau 1.
 
 Compresse les matériaux en plaques, plaques denses, blocs et autres produits. Machine de Niveau 1.
 
+
+<AdUnit />
+
 ### Recettes
 
 | Entrée | Sortie |
@@ -204,6 +207,9 @@ Une machine à trois modes : **Laminage**, **Découpe** et **Extrusion**. Change
 
 Extrait des matériaux tels que le caoutchouc et le soufre. Machine de Niveau 1.
 
+
+<AdUnit />
+
 ### Recettes
 
 | Entrée | Sortie |
@@ -251,6 +257,9 @@ Chaque bûche/bûche écorcée/bois/bois écorcé de **chêne, sapin, bouleau, j
 ![recycler_block](../../../img/industrial_elixir/machines/recycler_block_front.png)
 
 Recycle n'importe quel objet en **Ferraille**. Machine de Niveau 1.
+
+
+<AdUnit />
 
 ### Recettes
 

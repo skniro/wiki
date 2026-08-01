@@ -172,6 +172,9 @@ IMI
 ```
 - G = Verre, T = Cellule vide, I = Coque de fer, M = Générateur à charbon
 
+
+<AdUnit />
+
 ### Chauffage électrique
 ```
 IBI
@@ -337,6 +340,9 @@ E E
 IEI
 ```
 - I = Plaque de fer, E = Cellule vide
+
+
+<AdUnit />
 
 ## Modules d'amélioration
 
@@ -505,6 +511,9 @@ AMA
 ICI
 ```
 - I = Circuit avancé, C = Diamant, M = Machine avancée, A = Câble en fibre de verre
+
+
+<AdUnit />
 
 ### Moteur électrique
 ```
@@ -686,6 +695,9 @@ GHG
  G
 ```
 - H = Évent thermique avancé, G = Plaque d'or
+
+
+<AdUnit />
 
 ### Essence sacrée (Réacteur de brassage)
 - Pierre sacrée impure + Récipient vide (dans le Réacteur de brassage)
