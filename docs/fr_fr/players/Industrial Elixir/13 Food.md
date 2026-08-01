@@ -31,7 +31,7 @@ Toutes les boissons au café sont des **boissons** (animation de boisson), se cu
 
 ## Faire du Café
 
-Utilisez la **Machine à Café** (voir [Traitement des Fluides](./05%20Fluid%20Processing)) pour préparer des boissons. Chaque recette consomme 1000 mB d'eau.
+Utilisez la **Machine à Café** (voir [Traitement des Fluides](./11%20Fluid%20Processing)) pour préparer des boissons. Chaque recette consomme 1000 mB d'eau.
 > **Remarque :** voir la liste des recettes de la machine.
 
 ## Décorations du Distributeur

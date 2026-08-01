@@ -42,15 +42,15 @@ Chaque machine peut être améliorée avec jusqu'à quatre **modules d'améliora
 | [Système d'énergie](./02%20Energy%20System) | Câbles, batteries, boîtes de stockage, chargeurs, transformateurs, tuyaux |
 | [Génération d'énergie](./03%20Power%20Generation) | Générateurs à charbon, à fluides, solaires, éoliens |
 | [Machines de traitement](./04%20Processing%20Machines) | Macérateur, compresseur, formeur de métal, fours et plus |
-| [Traitement des fluides](./05%20Fluid%20Processing) | Lavage de minerai, réacteur de brassage, machine à café, réplicateur, générateur de matière |
 | [Machines avancées](./06%20Advanced%20Machines) | Transformateur moléculaire, stockage de motifs, ferme de culture, distributeur automatique |
 | [Chaleur & réacteurs](./07%20Heat%20and%20Reactors) | Chauffages, haut fourneau, réacteur nucléaire, réacteur sacré |
 | [Objets & matériaux](./08%20Items%20and%20Materials) | Chaque objet et son utilité |
-| [Recettes de fabrication](./09%20Crafting%20Recipes) | Toutes les recettes d'établi |
-| [Génération du monde](./10%20World%20Generation) | Minerais, arbre à caoutchouc, structures, tables de butin |
-| [Fluides](./11%20Fluids) | UU-Matter, air comprimé, source chaude |
-| [Équipement](./12%20Equipment) | Armures en bronze et quantiques, outils, jetpack |
+| [Équipement](./09%20Equipment) | Armures en bronze et quantiques, outils, jetpack |
+| [Fluides](./10%20Fluids) | UU-Matter, air comprimé, source chaude |
+| [Traitement des fluides](./11%20Fluid%20Processing) | Lavage de minerai, réacteur de brassage, machine à café, réplicateur, générateur de matière |
+| [Génération du monde](./12%20World%20Generation) | Minerais, arbre à caoutchouc, structures, tables de butin |
 | [Nourriture](./13%20Food) | Grains de café et boissons au café |
+| [Recettes de fabrication](./14%20Crafting%20Recipes) | Toutes les recettes d'établi |
 
 <AdUnit />
 <script setup>

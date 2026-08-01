@@ -158,7 +158,7 @@ Wearing the full set absorbs damage using energy, reducing damage per piece.
 
 ### Small Dusts
 
-Nine small dusts combine into one full dust (see [Crafting Recipes](./09%20Crafting%20Recipes)).
+Nine small dusts combine into one full dust (see [Crafting Recipes](./14%20Crafting%20Recipes)).
 
 | Item | Photo | | Item | Photo |
 |------|-------|---|---|-------|

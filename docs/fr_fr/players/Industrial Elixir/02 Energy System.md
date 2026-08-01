@@ -98,7 +98,7 @@ Les tuyaux à fluides déplacent les fluides entre les réservoirs et les machin
 
 Le Réservoir de fluides stocke **16 seaux (16 000 mB)** d'un seul fluide. Faites un clic droit avec un seau (par exemple d'eau ou de lave) pour le remplir, et videz un seau pour le drainer. Il remplit et vide automatiquement les cellules et seaux de fluides via ses emplacements d'inventaire. L'interface graphique affiche le taux de remplissage.
 
-Voir [Fluides](./11%20Fluids) pour les trois fluides personnalisés du mod.
+Voir [Fluides](./10%20Fluids) pour les trois fluides personnalisés du mod.
 
 <AdUnit />
 <script setup>

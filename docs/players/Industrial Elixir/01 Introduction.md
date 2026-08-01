@@ -42,15 +42,15 @@ Every machine can be upgraded with up to four **upgrade modules** to change its 
 | [Energy System](./02%20Energy%20System) | Cables, batteries, storage boxes, charge pads, transformers, pipes |
 | [Power Generation](./03%20Power%20Generation) | Coal, fluid, solar, wind generators |
 | [Processing Machines](./04%20Processing%20Machines) | Macerator, compressor, metal former, furnaces and more |
-| [Fluid Processing](./05%20Fluid%20Processing) | Ore washing, brew reactor, coffee machine, replicator, matter generator |
 | [Advanced Machines](./06%20Advanced%20Machines) | Molecular transformer, pattern storage, crop farm, vendor machine |
 | [Heat & Reactors](./07%20Heat%20and%20Reactors) | Heaters, blast furnace, nuclear reactor, sacred reactor |
 | [Items & Materials](./08%20Items%20and%20Materials) | Every item and what it does |
-| [Crafting Recipes](./09%20Crafting%20Recipes) | All crafting-table recipes |
-| [World Generation](./10%20World%20Generation) | Ores, rubber tree, structures, loot tables |
-| [Fluids](./11%20Fluids) | UU-Matter, compressed air, hot spring |
-| [Equipment](./12%20Equipment) | Bronze & quantum armor, tools, jetpack |
+| [Equipment](./09%20Equipment) | Bronze & quantum armor, tools, jetpack |
+| [Fluids](./10%20Fluids) | UU-Matter, compressed air, hot spring |
+| [Fluid Processing](./11%20Fluid%20Processing) | Ore washing, brew reactor, coffee machine, replicator, matter generator |
+| [World Generation](./12%20World%20Generation) | Ores, rubber tree, structures, loot tables |
 | [Food](./13%20Food) | Coffee beans and coffee drinks |
+| [Crafting Recipes](./14%20Crafting%20Recipes) | All crafting-table recipes |
 
 <AdUnit />
 <script setup>

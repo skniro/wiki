@@ -158,7 +158,7 @@ Porter l'ensemble complet absorbe les dégâts en utilisant l'énergie, en rédu
 
 ### Petites poussières
 
-Neuf petites poussières se combinent en une poussière complète (voir [Recettes de fabrication](./09%20Crafting%20Recipes)).
+Neuf petites poussières se combinent en une poussière complète (voir [Recettes de fabrication](./14%20Crafting%20Recipes)).
 
 | Objet | Photo | | Objet | Photo |
 |-------|-------|---|---|-------|

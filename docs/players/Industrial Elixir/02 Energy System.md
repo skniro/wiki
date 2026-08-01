@@ -98,7 +98,7 @@ Fluid pipes move fluids between tanks and fluid machines.
 
 The Fluid Tank stores **16 buckets (16,000 mB)** of a single fluid. Right-click with a bucket (e.g. water or lava) to fill it, and empty a bucket to drain it. It automatically fills and empties fluid cells and buckets through its inventory slots. The GUI shows the fill ratio.
 
-See [Fluids](./11%20Fluids) for the mod's three custom fluids.
+See [Fluids](./10%20Fluids) for the mod's three custom fluids.
 
 <AdUnit />
 <script setup>

@@ -2,7 +2,7 @@
 
 Fluid machines use and/or produce fluids. They each have a built-in fluid tank (about 16 buckets) plus slots for fluid cells. Most consume **1000 mB (1 bucket)** of fluid per craft.
 
-See [Fluids](./11%20Fluids) for details on UU-Matter, Compressed Air, and Hot Spring.
+See [Fluids](./10%20Fluids) for details on UU-Matter, Compressed Air, and Hot Spring.
 
 ## Ore Washing
 

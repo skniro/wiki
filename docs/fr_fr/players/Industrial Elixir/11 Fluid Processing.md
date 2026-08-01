@@ -2,7 +2,7 @@
 
 Les machines à fluides utilisent et/ou produisent des fluides. Chacune dispose d'un réservoir de fluides intégré (environ 16 seaux) plus des emplacements pour les cellules de fluides. La plupart consomment **1000 mB (1 seau)** de fluide par fabrication.
 
-Voir [Fluides](./11%20Fluids) pour les détails sur l'UU-Matter, l'air comprimé et la source chaude.
+Voir [Fluides](./10%20Fluids) pour les détails sur l'UU-Matter, l'air comprimé et la source chaude.
 
 ## Laveuse de minerai
 

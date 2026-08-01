@@ -1,19 +1,17 @@
 #### Skniro's Industrial Elixir
-
 - [Introduction à Industrial Elixir](./Industrial%20Elixir/01%20Introduction)
 - [Système d'Énergie](./Industrial%20Elixir/02%20Energy%20System)
 - [Production d'Énergie](./Industrial%20Elixir/03%20Power%20Generation)
 - [Machines de Traitement](./Industrial%20Elixir/04%20Processing%20Machines)
-- [Traitement des Fluides](./Industrial%20Elixir/05%20Fluid%20Processing)
 - [Machines Avancées](./Industrial%20Elixir/06%20Advanced%20Machines)
 - [Chaleur & Réacteurs](./Industrial%20Elixir/07%20Heat%20and%20Reactors)
 - [Objets & Matériaux](./Industrial%20Elixir/08%20Items%20and%20Materials)
-- [Recettes de Fabrication](./Industrial%20Elixir/09%20Crafting%20Recipes)
-- [Génération du Monde](./Industrial%20Elixir/10%20World%20Generation)
-- [Fluides](./Industrial%20Elixir/11%20Fluids)
-- [Équipement](./Industrial%20Elixir/12%20Equipment)
+- [Équipement](./Industrial%20Elixir/09%20Equipment)
+- [Fluides](./Industrial%20Elixir/10%20Fluids)
+- [Traitement des Fluides](./Industrial%20Elixir/11%20Fluid%20Processing)
+- [Génération du Monde](./Industrial%20Elixir/12%20World%20Generation)
 - [Nourriture](./Industrial%20Elixir/13%20Food)
-
+- [Recettes de Fabrication](./Industrial%20Elixir/14%20Crafting%20Recipes)
 #### Minerais Cultivables (Growable Ores)
 
 - [Introduction aux Minerais Cultivables](./GrowableOres/01%20Introducing%20the%20Growable%20Ores)

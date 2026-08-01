@@ -31,7 +31,7 @@ All coffee drinks are **drinks** (drink animation), stack to 1, are always edibl
 
 ## Making Coffee
 
-Use the **Coffee Machine** (see [Fluid Processing](./05%20Fluid%20Processing)) to brew drinks. Each recipe consumes 1000 mB of water.
+Use the **Coffee Machine** (see [Fluid Processing](./11%20Fluid%20Processing)) to brew drinks. Each recipe consumes 1000 mB of water.
 > **Note:** see the machine recipe list.
 
 ## Vendor Machine Decorations
