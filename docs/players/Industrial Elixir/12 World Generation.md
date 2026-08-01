@@ -47,9 +47,9 @@ The **sap log** is a special crop-like log that grows in three stages (0 → 1 �
 ## Hot Spring Baths Structure
 
 The mod generates a single structure: **`industrial_elixir_hot_spring_baths`** — a hot-spring bath house made mostly of rubber wood and deepslate tile.
-![hot_spring_baths1.png](../../../img/industrial_elixir/hot_spring_baths1.png)
-![hot_spring_baths2.png](../../../img/industrial_elixir/hot_spring_baths2.png)
-![hot_spring_baths3.png](../../../img/industrial_elixir/hot_spring_baths3.png)
+![hot_spring_baths1.png](../../img/industrial_elixir/hot_spring_baths1.png)
+![hot_spring_baths2.png](../../img/industrial_elixir/hot_spring_baths2.png)
+![hot_spring_baths3.png](../../img/industrial_elixir/hot_spring_baths3.png)
 
 **Where it generates:**
 - Biome: **Cherry Grove** (in the Overworld)
