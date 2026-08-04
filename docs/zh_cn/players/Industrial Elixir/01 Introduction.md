@@ -3,8 +3,8 @@
 欢迎来到「工业灵药」——一个工业与自然交织共存的世界。
 「工业灵药」是一款注重循序渐进与探索体验的 Minecraft 科技自动化模组。它不会一开始就用复杂的系统和大量数据压迫玩家，而是希望陪伴你慢慢成长：从简单的工具开始，制作第一台机器，逐步建立属于自己的工厂与自动化网络。
 粉碎矿石、提炼材料、加工零件，看着第一条生产线在你的手中运转，每一次升级都会带来新的成就感。
-![industrial.png](../../img/industrial_elixir/industrial.png)  
-![industrial2.png](../../img/industrial_elixir/industrial2.png)  
+![industrial.png](../../../img/industrial_elixir/industrial.png)  
+![industrial2.png](../../../img/industrial_elixir/industrial2.png)  
   
 ## 这是什么？
 
@@ -15,9 +15,9 @@
 - **能够生长的资源** — 矿物不再只能通过挖掘获得。种植特殊矿物作物，培育橡胶树，建立可持续的资源生产方式。
 - **工业也可以很温暖** — 种植咖啡豆，制作饮品，在温泉旁稍作休息。你的工厂也可以成为一个舒适的家。
 - **更高层次的科技等待探索** — 当你准备好后，可以接触反应堆、复制技术以及量子级设备等先进系统。
-  ![hot_spring_baths2.png](../../img/industrial_elixir/hot_spring_baths2.png)  
-  ![hot_spring_baths3.png](../../img/industrial_elixir/hot_spring_baths3.png)    
-  ![resource1.png](../../img/industrial_elixir/resource1.png)
+  ![hot_spring_baths2.png](../../../img/industrial_elixir/hot_spring_baths2.png)  
+  ![hot_spring_baths3.png](../../../img/industrial_elixir/hot_spring_baths3.png)    
+  ![resource1.png](../../../img/industrial_elixir/resource1.png)
   
 ## 你可能会喜欢它
 
