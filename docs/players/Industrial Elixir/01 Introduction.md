@@ -1,39 +1,33 @@
 # Skniro's Industrial Elixir
 
-**Skniro's Industrial Elixir** is a Minecraft tech mod for **Fabric** and **NeoForge** that adds a wide range of industrial machinery, an EU-style energy system, fluids, pipes, ore processing, and even farmable ores.
+Welcome to *Industrial Elixir* — a world where industry and nature come together in harmony.  
+*Industrial Elixir* is a technology and automation mod designed around gradual progression and discovery. Instead of overwhelming you with complex systems from the beginning, it lets you grow step by step: start with basic tools, build your first machines, and slowly expand a small workshop into a powerful industrial network.
+Crush ores, refine materials, shape components, and watch your very first production line come to life. Every machine you build is a small step toward creating something greater.
+![industrial.png](../../img/industrial_elixir/industrial.png)  
+![industrial2.png](../../img/industrial_elixir/industrial2.png)  
 
-## Features
+## What is it?
 
-- **Energy System** – Multi-tier EU-style power with cables (tin, copper, gold, HV, glass fiber), batteries, transformers, and energy storage boxes (Energy Box, CESU, MFE, MFSU).
-- **Power Generation** – Coal generators, fluid generators, wind mills, solar panels (up to quantum tier), nuclear reactors, sacred generators, and more.
-- **Ore Processing** – Macerator, compressor, metal former, extractor, ore washing, heat centrifuge, induction furnace, blast furnace, and a full crushed/purified dust processing chain.
-- **Fluids & Pipes** – Wood and stone fluid pipes, item pipes, fluid tanks, fluid generators, and automatic fluid transport.
-- **Advanced Machines** – Molecular transformer, replicator, matter generator, recycler, cutting machine, chunk loader, crop farm, coffee machine, vendor machine, and a brewing/alchemy system.
-- **Nuclear & Sacred Reactors** – Reactor components including fuel rods, coolant cells, heat vents, neutron reflectors, and plating.
-- **Growable Ores** – Farm ore materials as crops instead of mining them.
+*Industrial Elixir* is a Minecraft tech mod focused on machinery, automation, energy, and resource processing, while keeping a relaxing and approachable progression.
 
-## Energy Basics
+- **A smooth industrial journey** — Begin with simple machines such as the Macerator and Compressor, then advance toward electric furnaces, induction furnaces, metal formers, and more advanced technology.
+- **Build your own energy network** — Generate power through coal, fluids, sunlight, wind, and other sources. Connect machines, manage energy, and create a system that fits your own factory.
+- **Resources that grow** — Mining isn't the only way to obtain materials. Cultivate special ores like crops, harvest rubber trees, and create renewable resource systems.
+- **Industry with comfort** — Grow coffee beans, brew drinks, and relax in hot springs. A factory can be productive while still feeling like home.
+- **Advanced technology awaits** — When you are ready, explore powerful systems such as reactors, replication technology, and quantum-level equipment.  
+![hot_spring_baths2.png](../../img/industrial_elixir/hot_spring_baths2.png)  
+![hot_spring_baths3.png](../../img/industrial_elixir/hot_spring_baths3.png)    
+![resource1.png](../../img/industrial_elixir/resource1.png)  
 
-Energy is measured in **EP** (the mod's EU-style unit). Different machines, cables, batteries, and generators operate on different **energy tiers**:
+## Why you might like it
 
-| Tier | Max Input/Output |
-|------|------------------|
-| Tier 1 | 32 E/t |
-| Tier 2 | 128 E/t |
-| Tier 3 | 512 E/t |
-| Tier 4 | 2048 E/t |
-| Tier 5 | 8192 E/t |
-| Infinite | `Integer.MAX_VALUE` |
+- A complete material processing journey: crush, refine, purify, and transform resources into advanced components.
+- Flexible energy production and storage systems for factories of all sizes.
+- Item and fluid transportation networks using pipes and automation.
+- Renewable resources through growable ores, rubber trees, and agricultural systems.
+- With JEI / REI support for convenient recipe viewing.
 
-Every machine can be upgraded with up to four **upgrade modules** to change its speed, power tier, storage, or redstone behavior.
-
-## Getting Started
-
-1. **Smelt ore** to get copper, tin, lead, bronze, silver, and steel ingots.
-2. **Build a Macerator** to turn ores into crushed ores, then use an **Ore Washing** machine and **Heat Centrifuge** to get pure dusts.
-3. **Build a Metal Former** to roll ingots into plates and cut plates into cables.
-4. **Make batteries and cables** to store and transport the energy produced by your first **Coal Generator**.
-5. **Upgrade your power** with solar panels, wind mills, energy boxes, and finally the nuclear / sacred reactors.
+Whether you are a newcomer to technology mods or an experienced player, *Industrial Elixir* invites you to create, experiment, and build your own industrial world.
 
 ## Contents
 
