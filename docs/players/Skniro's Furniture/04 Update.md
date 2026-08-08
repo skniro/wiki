@@ -1,9 +1,21 @@
 # Update
 
+## Skniro's Furniture 1.5.2（1.3.10 for 1.21.4）
+**Supported Versions:**  
+`1.20.1` · `1.20.4` · `1.21.1` · `1.21.6` · `1.21.7` · `1.21.8` · `1.21.9` · `1.21.10`  · `1.21.11` · `26.1.2` · `26.2`    
+Update translations for 28 languages
+
+Translation completed for:
+- Afrikaans, Arabic, Catalan, Czech, Danish, German, Greek,
+  Spanish, Finnish, French, Hebrew, Hungarian, Italian, Japanese,
+  Korean, Dutch, Norwegian, Polish, Brazilian Portuguese,
+  European Portuguese, Romanian, Russian, Serbian, Swedish,
+  Turkish, Ukrainian, Vietnamese, Traditional Chinese
+ 
 ### Skniro's Furniture 1.5.0
 
 **Supported Versions:**  
-`1.20.1` · `1.20.4` · `1.21.1` · `1.21.6` · `1.21.7` · `1.21.8` · `1.21.9` · `1.21.10`  · `1.21.11`  
+`1.20.1` · `1.20.4` · `1.21.1` · `1.21.6` · `1.21.7` · `1.21.8` · `1.21.9` · `1.21.10`  · `1.21.11`   
 
 #### Added
 

@@ -1,3 +1,12 @@
+# Usefulfood Reborn – Version 1.5.3 for 26.1.2, 26.2
+Update translations Japanese and Spanish.
+Fix bottled Items play food sound when player drinking.
+# Usefulfood Reborn – Version 1.5.1 for 1.21.11,1.21.10,1.21.9,1.21.8,1.21.7,1.21.6,1.21.5,1.21.4
+Update translations Japanese and Spanish.
+Fix bottled Items play food sound when player drinking.
+# Usefulfood Reborn – Version 1.5.1 for 1.21.1, 1.20.4, 1.20.1, 1.19.2, 1.18.2
+Update translations Japanese and Spanish.
+
 # UsefulFood Reborn – Version 1.5.0  
 
 UsefulFood Reborn 1.5.0 **modernization overhaul**  part 2 of the mod.  
