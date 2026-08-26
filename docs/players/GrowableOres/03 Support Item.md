@@ -46,9 +46,9 @@
 | Prismarine Crystals | ALL                       | 3.5.0(3.X),2.11.0(2.X)     | Fabric,Forge,Neoforge |
 | Sand                | ALL                       | 3.6.0(3.X)                 | Fabric,Forge,Neoforge |
 | String              | ALL                       | 3.6.0(3.X)                 | Fabric,Forge,Neoforge |
-| Honeycomb           | ALL                       | 3.8.0(3.X)                 | Fabric,Forge,Neoforge |
-| Echo Shard          | ALL                       | 3.8.0(3.X)                 | Fabric,Forge,Neoforge |
-| Breeze Rod          | 1.21.7+                   | 3.8.0(3.X)                 | Fabric,Forge,Neoforge |
+| Honeycomb           | ALL                       | 3.7.0(3.X)                 | Fabric,Forge,Neoforge |
+| Echo Shard          | ALL                       | 3.7.0(3.X)                 | Fabric,Forge,Neoforge |
+| Breeze Rod          | 1.21.7+                   | 3.7.0(3.X)                 | Fabric,Forge,Neoforge |
 
 ## Applied Energistcs 2!  
 
@@ -76,6 +76,7 @@
 | Zinc Ingot     | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
 | Tin Ingot      | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
 | Tungsten Ingot | ALL                       | 0.1.0(Fabric)             | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Nickel Ingot   | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
 
 ## BetterEnd!  
 
@@ -414,24 +415,60 @@
 
 | Item          | Support Minecraft Version | First Support Mod Version | Mod Loader            |
 | ------------- | ------------------------- | ------------------------- | --------------------- |
-| Dusk Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
-| Dawn Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
-| Fire Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
-| Sun Stone     | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
-| Thunder Stone | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
-| Shiny Stone   | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
-| Ice Stone     | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
-| Moon Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
-| Leaf Stone    | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
-| Water Stone   | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Dusk Stone    | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
+| Dawn Stone    | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
+| Fire Stone    | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
+| Sun Stone     | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
+| Thunder Stone | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
+| Shiny Stone   | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
+| Ice Stone     | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
+| Moon Stone    | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
+| Leaf Stone    | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
+| Water Stone   | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Fabric,Forge,Neoforge |
 
 ## Occultism!
 
 | Item           | Support Minecraft Version | First Support Mod Version | Mod Loader     |
 | -------------- | ------------------------- | ------------------------- | -------------- |
-| Silver Ingot   | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Forge,Neoforge |
-| Iesnium Ingot  | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Forge,Neoforge |
-| Otherworld Log | 1.20.1/1.21.1/1.21.7+     | 3.8.0                     | Forge,Neoforge |
+| Silver Ingot   | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Forge,Neoforge |
+| Iesnium Ingot  | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Forge,Neoforge |
+| Otherworld Log | 1.20.1/1.21.1/1.21.7+     | 3.7.0                     | Forge,Neoforge |
+
+## Aether!
+
+| Item                | Support Minecraft Version | First Support Mod Version | Mod Loader            |
+| ------------------- | ------------------------- | ------------------------- | --------------------- |
+| Ambrosium Shard     | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Enchanted Gravitite | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Zanite Gemstone     | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Skyroot Stick       | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge,Neoforge |
+| Golden Amber        | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge,Neoforge |
+
+## Mythic Metals!
+
+| Item              | Support Minecraft Version | First Support Mod Version | Mod Loader                                                  |
+| ----------------- | ------------------------- | ------------------------- | ----------------------------------------------------------- |
+| Adamantite Ingot  | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Aquarium Ingot    | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Banglum Ingot     | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Carmot Ingot      | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Kyber Ingot       | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Manganese Ingot   | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Midas Gold Ingot  | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Morkite           | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Mythril Ingot     | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Orichalcum Ingot  | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Osmium Ingot      | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Palladium Ingot   | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Platinum Ingot    | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Prometheum Ingot  | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Quadrillum Ingot  | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Runite Ingot      | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Silver Ingot      | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Starrite          | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Stormyx Ingot     | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Tin Ingot         | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
+| Unobtainium Ingot | 1.20.1/1.21.1/26.1.2+     | 3.8.0                     | Fabric,Forge(Sinytra Connector),Neoforge(Sinytra Connector) |
 
 <AdUnit />
 
