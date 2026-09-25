@@ -1,5 +1,12 @@
 # Update
 
+## Skniro's Furniture 1.6.1  
+
+**Supported Versions:**  
+
+ `26.3`   
+Fixed an issue where pressing Shift would not allow the player to stand up from a seatable object.  
+
 ## Skniro's Furniture 1.6.0  
 
 **Supported Versions:**  
