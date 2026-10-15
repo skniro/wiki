@@ -1,5 +1,11 @@
 # Update
 
+## Skniro's Furniture 1.6.2  
+
+ `26.3`   
+
+Fixed an issue when open kitchen sink causing game crash.(#5)
+
 ## Skniro's Furniture 1.6.1  
 
 **Supported Versions:**  
