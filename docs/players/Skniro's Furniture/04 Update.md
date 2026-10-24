@@ -1,5 +1,11 @@
 # Update
 
+## Skniro's Furniture 1.6.3  
+
+ `26.3`   
+
+Fixed break bed drop two beds.
+
 ## Skniro's Furniture 1.6.2  
 
  `26.3`   
