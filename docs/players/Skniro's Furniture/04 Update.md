@@ -1,5 +1,11 @@
 # Update
 
+## Skniro's Furniture 1.6.4  
+
+ `26.3`   
+
+Fixed kitchen Sink gui background dimming.
+
 ## Skniro's Furniture 1.6.3  
 
  `26.3`   
